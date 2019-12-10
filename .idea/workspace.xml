@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HelloAdam2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="CCLhuPqS" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RNLwHJq8EO8oXfehSQpCdDx7jc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/helloadam/HelloAdam40CRUD.java&#10;/media/adam/A86EC6566EC61CC6/Data/Data Pribadi/My JAVA/HelloAdam2/src/mandiri/Mandiri47ClassMemasak.java&#10;/media/adam/A86EC6566EC61CC6/Data/Data Pribadi/My JAVA/HelloAdam2/src/helloadam/HelloAdam41AccessModifier.java&#10;/media/adam/A86EC6566EC61CC6/Data/Data Pribadi/My JAVA/HelloAdam2/src/tugaspakbayu/Tugas43CRUD.java" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA_dasar_programming-master" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.22290389" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Tugas42DeretFibonacciRekursif">
+    <configuration name="HelloAdam40CRUD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam40CRUD" />
+      <module name="HelloAdam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloadam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tugas35JenisSegitiga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugaspakbayu.Tugas35JenisSegitiga" />
+      <module name="HelloAdam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tugaspakbayu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tugas41DeretGeometriRekursif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugaspakbayu.Tugas41DeretGeometriRekursif" />
+      <module name="HelloAdam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tugaspakbayu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tugas42DeretFibonacciRekursif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugaspakbayu.Tugas42DeretFibonacciRekursif" />
+      <module name="HelloAdam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tugaspakbayu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tugas43CRUD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugaspakbayu.Tugas43CRUD" />
+      <module name="HelloAdam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tugaspakbayu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tugas42DeretFibonacciRekursif" />
+        <item itemvalue="Application.Tugas43CRUD" />
+        <item itemvalue="Application.HelloAdam40CRUD" />
+        <item itemvalue="Application.Tugas35JenisSegitiga" />
+        <item itemvalue="Application.Tugas41DeretGeometriRekursif" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="" />
+      <created>1569502843666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569502843666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="27" width="526" height="741" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575171213323">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="488" y="27" width="526" height="741" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575171213323" />
+    <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1574986199053">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
+    <state x="1827" y="118" width="447" height="520" key="FileChooserDialogImpl" timestamp="1575969113810">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="461" y="141" width="422" height="541" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575956640573" />
+    <state x="1827" y="118" width="447" height="520" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969113810" />
+    <state x="1776" y="246" width="545" height="283" key="Github.CreatePullRequestDialog" timestamp="1575968638022">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1776" y="246" width="545" height="283" key="Github.CreatePullRequestDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968638022" />
+    <state x="1743" y="278" width="451" height="219" key="Github.ShareDialog" timestamp="1575968187533">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1743" y="278" width="451" height="219" key="Github.ShareDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968187533" />
+    <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog" timestamp="1575968206803">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968206803" />
+    <state width="656" height="538" key="GridCell.Tab.0.bottom" timestamp="1575727263023">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="526" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575619078436" />
+    <state width="357" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151680" />
+    <state width="656" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1575727263023" />
+    <state width="656" height="538" key="GridCell.Tab.0.center" timestamp="1575727263022">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="526" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575619078436" />
+    <state width="357" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151679" />
+    <state width="656" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1575727263022" />
+    <state width="656" height="538" key="GridCell.Tab.0.left" timestamp="1575727263022">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="526" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575619078436" />
+    <state width="357" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151679" />
+    <state width="656" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1575727263022" />
+    <state width="656" height="538" key="GridCell.Tab.0.right" timestamp="1575727263022">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="526" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575619078436" />
+    <state width="357" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151680" />
+    <state width="656" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1575727263022" />
+    <state x="1538" y="4" width="1022" height="737" key="SettingsEditor" timestamp="1575969221524">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
+    <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1575968760079">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968760079" />
+    <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575897519770">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575897519770" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575935184252">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575935184252" />
+    <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575852888350" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1575781251640" />
+    <state x="1815" y="295" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575968798767">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575952022989" />
+    <state x="1815" y="295" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968798767" />
+    <state x="487" y="27" width="879" height="685" key="dock-window-1" timestamp="1575962838270">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="487" y="27" width="879" height="685" key="dock-window-1/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575957076267" />
+    <state x="487" y="27" width="879" height="685" key="dock-window-1/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575962838270" />
+    <state x="1" y="27" width="733" height="685" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1575815848841" />
+    <state x="107" y="55" width="733" height="685" key="dock-window-2" timestamp="1575903203632">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="107" y="55" width="733" height="685" key="dock-window-2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575903203632" />
+    <state x="1473" y="55" width="733" height="685" key="dock-window-2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575877532694" />
+    <state x="1678" y="159" width="741" height="456" key="git4idea.merge.GitPullDialog" timestamp="1575968522436">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1678" y="159" width="741" height="456" key="git4idea.merge.GitPullDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968522436" />
+    <state x="1715" y="229" width="668" height="316" key="git4idea.rebase.GitRebaseDialog" timestamp="1575968732900">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1715" y="229" width="668" height="316" key="git4idea.rebase.GitRebaseDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968732900" />
+    <state x="1690" y="272" width="717" height="230" key="git4idea.ui.GitResetDialog" timestamp="1575968917515">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1690" y="272" width="717" height="230" key="git4idea.ui.GitResetDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968917515" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1575956643153">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575956643153" />
+    <state x="5" y="174" key="run.anything.popup" timestamp="1575784620857">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="5" y="174" key="run.anything.popup/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575618383416" />
+    <state x="5" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1575784620857" />
+    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup" timestamp="1575786453539">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575620713253" />
+    <state x="1712" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575528420174" />
+    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1575786453539" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

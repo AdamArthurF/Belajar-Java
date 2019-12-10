@@ -1,0 +1,7 @@
+fiersabesari_2012_1,2012,Fiersa Besari,Media Kita,Jejak Langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,Purcell,Wiley,Calculus
+faqihza_2019_1,2019,Faqihza,Gramedia,belajar C++
+faqihza_2019_2,2019,Faqihza,Gramedia,belajar python
+faqihza_2019_3,2019,Faqihza,Gramedia,belajar Java
+ucup_2020_1,2020,Ucup Surucup,Kompas,Cara Sukses Ngoding
