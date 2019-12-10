@@ -24,7 +24,12 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="" />
+    <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam28PengenalanString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam28PengenalanString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam29OperasiString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam29OperasiString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +55,7 @@
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
+        <option value="$PROJECT_DIR$" />
         <option value="$PROJECT_DIR$/.idea" />
       </set>
     </option>
@@ -76,6 +82,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/src/helloadam/HelloAdam40CRUD.java&#10;/media/adam/A86EC6566EC61CC6/Data/Data Pribadi/My JAVA/HelloAdam2/src/mandiri/Mandiri47ClassMemasak.java&#10;/media/adam/A86EC6566EC61CC6/Data/Data Pribadi/My JAVA/HelloAdam2/src/helloadam/HelloAdam41AccessModifier.java&#10;/media/adam/A86EC6566EC61CC6/Data/Data Pribadi/My JAVA/HelloAdam2/src/tugaspakbayu/Tugas43CRUD.java" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA_dasar_programming-master" />
@@ -86,9 +93,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Tugas42DeretFibonacciRekursif">
-    <configuration name="HelloAdam40CRUD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam40CRUD" />
+  <component name="RunManager" selected="Application.HelloAdam29OperasiString">
+    <configuration name="HelloAdam28PengenalanString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam28PengenalanString" />
       <module name="HelloAdam2" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tugas35JenisSegitiga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tugaspakbayu.Tugas35JenisSegitiga" />
+    <configuration name="HelloAdam29OperasiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam29OperasiString" />
       <module name="HelloAdam2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tugaspakbayu.*" />
+          <option name="PATTERN" value="helloadam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tugas41DeretGeometriRekursif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tugaspakbayu.Tugas41DeretGeometriRekursif" />
+    <configuration name="HelloAdam40CRUD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam40CRUD" />
       <module name="HelloAdam2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tugaspakbayu.*" />
+          <option name="PATTERN" value="helloadam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloAdam29OperasiString" />
+        <item itemvalue="Application.HelloAdam28PengenalanString" />
         <item itemvalue="Application.Tugas42DeretFibonacciRekursif" />
         <item itemvalue="Application.Tugas43CRUD" />
         <item itemvalue="Application.HelloAdam40CRUD" />
-        <item itemvalue="Application.Tugas35JenisSegitiga" />
-        <item itemvalue="Application.Tugas41DeretGeometriRekursif" />
       </list>
     </recent_temporary>
   </component>
@@ -246,38 +253,38 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1776" y="246" width="545" height="283" key="Github.CreatePullRequestDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968638022" />
-    <state x="1743" y="278" width="451" height="219" key="Github.ShareDialog" timestamp="1575968187533">
+    <state x="1743" y="278" width="451" height="219" key="Github.ShareDialog" timestamp="1575969323614">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1743" y="278" width="451" height="219" key="Github.ShareDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968187533" />
-    <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog" timestamp="1575968206803">
+    <state x="1743" y="278" width="451" height="219" key="Github.ShareDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969323614" />
+    <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog" timestamp="1575969333089">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968206803" />
-    <state width="656" height="538" key="GridCell.Tab.0.bottom" timestamp="1575727263023">
+    <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969333089" />
+    <state width="656" height="538" key="GridCell.Tab.0.bottom" timestamp="1576018869014">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="526" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575619078436" />
     <state width="357" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151680" />
-    <state width="656" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1575727263023" />
-    <state width="656" height="538" key="GridCell.Tab.0.center" timestamp="1575727263022">
+    <state width="656" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576018869014" />
+    <state width="656" height="538" key="GridCell.Tab.0.center" timestamp="1576018869013">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="526" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575619078436" />
     <state width="357" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151679" />
-    <state width="656" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1575727263022" />
-    <state width="656" height="538" key="GridCell.Tab.0.left" timestamp="1575727263022">
+    <state width="656" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576018869013" />
+    <state width="656" height="538" key="GridCell.Tab.0.left" timestamp="1576018869012">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="526" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575619078436" />
     <state width="357" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151679" />
-    <state width="656" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1575727263022" />
-    <state width="656" height="538" key="GridCell.Tab.0.right" timestamp="1575727263022">
+    <state width="656" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576018869012" />
+    <state width="656" height="538" key="GridCell.Tab.0.right" timestamp="1576018869013">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="526" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575619078436" />
     <state width="357" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151680" />
-    <state width="656" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1575727263022" />
+    <state width="656" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576018869013" />
     <state x="1538" y="4" width="1022" height="737" key="SettingsEditor" timestamp="1575969221524">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
@@ -291,12 +298,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575897519770" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575935184252">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576018396128">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575935184252" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575852888350" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1575781251640" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1576018396128" />
     <state x="1815" y="295" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575968798767">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>

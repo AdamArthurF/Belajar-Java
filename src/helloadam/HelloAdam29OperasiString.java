@@ -5,7 +5,7 @@ import java.lang.String;
 
 public class HelloAdam29OperasiString {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
 
         String kalimat = "Saya suka makan pisang";
 
@@ -50,21 +50,20 @@ public class HelloAdam29OperasiString {
         System.out.println(gorengan2.compareTo(gorengan1));
 
         // equality ( persamaan )
-
         String kataInput = "test"; // ini ada di string pool
 //        String kataInput = new String("test"); // ini bukan string literal, dan tidak berada di string pool
         String kataTest = "test"; // ini juga ada di string pool
 
         System.out.println("\npersamaan pada lokasi string pool");
-        if (kataInput == kataTest){
+        if (kataInput.equals(kataTest)){
             System.out.println("sama");
         } else {
             System.out.println("tidak sama");
         }
 
-        Scanner userInput = new Scanner(System.in);
+        Scanner inputUser = new Scanner(System.in);
         System.out.print("\nmengambil input string dari user: ");
-        kataInput = userInput.next(); // tidak di string pool
+        kataInput = inputUser.next(); // tidak di string pool
         System.out.println("ini adalah input user: " + kataInput);
 
         if (kataInput.equals(kataTest)){
@@ -72,10 +71,7 @@ public class HelloAdam29OperasiString {
         } else {
             System.out.println("tidak sama");
         }
-
-
     }
-
 }
 
 
