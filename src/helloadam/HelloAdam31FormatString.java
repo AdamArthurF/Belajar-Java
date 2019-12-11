@@ -91,6 +91,3 @@ public class HelloAdam31FormatString {
         System.out.println("string builder format -> " + builder_info);
     }
 }
-
-
-

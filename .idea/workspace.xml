@@ -25,10 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam28PengenalanString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam28PengenalanString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam29OperasiString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam29OperasiString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam31FormatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam31FormatString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +191,18 @@
       <option name="presentableId" value="Default" />
       <updated>1569502843666</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sedikit perbaikan">
+      <created>1576019000509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576019000509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -222,6 +232,11 @@
             </State>
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_TABS">
@@ -234,6 +249,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Sedikit perbaikan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sedikit perbaikan" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="27" width="526" height="741" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575171213323">
@@ -244,6 +261,15 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1576024400449">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="159" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576024400449" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1576018999137" />
+    <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="483" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1576019603071" />
     <state x="1827" y="118" width="447" height="520" key="FileChooserDialogImpl" timestamp="1575969113810">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
@@ -298,17 +324,18 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575897519770" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576018396128">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576024363903">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575935184252" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576024363903" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575852888350" />
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1576018396128" />
-    <state x="1815" y="295" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575968798767">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576019181681">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575952022989" />
     <state x="1815" y="295" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968798767" />
+    <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1576019181681" />
     <state x="487" y="27" width="879" height="685" key="dock-window-1" timestamp="1575962838270">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

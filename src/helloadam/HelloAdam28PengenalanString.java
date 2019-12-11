@@ -4,7 +4,7 @@ import java.util.*;
 
 public class HelloAdam28PengenalanString {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         // membuat String
 
         String kataString = "hallo";
