@@ -316,7 +316,7 @@ public class HelloAdam40CRUD {
                 String[] tempData = new String[4];
 
                 masukan = new StringTokenizer(data,","); // Kita refresh data
-                String originalData;
+                String originalData = masukan.nextToken();
                 for(int i=0; i < fieldData.length ; i++) {
                     boolean isUpdate = GET_YES_OR_NO("Apakah anda ingin mengubah " + fieldData[i]);
                     originalData = masukan.nextToken();

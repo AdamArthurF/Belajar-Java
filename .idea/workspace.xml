@@ -26,8 +26,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam28PengenalanString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam28PengenalanString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam31FormatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam31FormatString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam40CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam40CRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas43CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas43CRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/inventory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/inventory.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576019000509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sedikit perbaikan">
+      <created>1576024455595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576024455596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -234,7 +242,9 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -261,10 +271,10 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1576024400449">
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1576024453693">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="159" y="27" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576024400449" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576024453693" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1576018999137" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
@@ -316,9 +326,10 @@
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
-    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1575968760079">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576024463096">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
+    <state x="278" y="139" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576024463096" />
     <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968760079" />
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575897519770">
       <screen x="0" y="27" width="1366" height="741" />
