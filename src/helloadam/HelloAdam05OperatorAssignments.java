@@ -2,7 +2,7 @@ package helloadam;
 
 public class HelloAdam05OperatorAssignments {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
 
     //Operator Assignments
         

@@ -3,8 +3,7 @@ package helloadam;
 
 public class HelloAdam04OperatorUnary {
 
-
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
  
     //Operator Unary = operator yang dilakukan pada satu variable
         

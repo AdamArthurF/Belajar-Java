@@ -1,11 +1,10 @@
 package tugaspakbayu;
 
-import javax.script.ScriptContext;
 import java.util.*;
 
 public class Tugas19KelulusanMahasiswa2 {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         Scanner inputUser;
         inputUser = new Scanner(System.in);
         int nilai;

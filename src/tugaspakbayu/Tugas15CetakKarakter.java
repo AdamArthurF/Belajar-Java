@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Tugas15CetakKarakter {
     static Scanner inputUser = new Scanner(System.in);
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         //Mencetak karakter menggunakan perulangan while
         PerulanganWhile();
     }

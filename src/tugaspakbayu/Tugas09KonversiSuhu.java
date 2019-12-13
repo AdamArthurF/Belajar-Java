@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Tugas09KonversiSuhu {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
 
         System.out.println("===================================");
         System.out.println("====== PROGRAM KONVERSI SUHU ======");

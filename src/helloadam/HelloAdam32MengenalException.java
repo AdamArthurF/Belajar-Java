@@ -6,7 +6,7 @@ import java.util.*;
 
 public class HelloAdam32MengenalException {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
 
         int[] array = {0,1,2,3};
 

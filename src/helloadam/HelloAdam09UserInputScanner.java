@@ -4,7 +4,7 @@ import java.util.*;
 
 public class HelloAdam09UserInputScanner {
  
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
 
         Scanner inputUser = new Scanner(System.in);
             int panjang, lebar, tinggi, luas, volume;

@@ -13,9 +13,14 @@ public class Praktikum06Array {
         int[] nilaiMath = new int[5]; // --> {0,1,2,3,4}; --> {input1,input2,...}
         double[] rataIndividu = new double[5];
 
-        for (int i = 0;i < nilaiAlgo.length;i++){
-            System.out.print("Masukkan nilai Algoritma " + nama[i] + " = ");
-            nilaiAlgo[i] = inputUser.nextInt(); inputUser.nextLine();
+        try {
+            for (int i = 0; i < nilaiAlgo.length; i++) {
+                System.out.print("Masukkan nilai Algoritma " + nama[i] + " = ");
+                nilaiAlgo[i] = inputUser.nextInt();
+                inputUser.nextLine();
+            }
+        } catch (Exception ex) {
+            System.out.println("Error su");
         }
 
         System.out.println("\n");

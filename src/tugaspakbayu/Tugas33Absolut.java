@@ -5,7 +5,7 @@ import java.lang.Math;
 
 public class Tugas33Absolut {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         Scanner inputUser;
         inputUser = new Scanner(System.in);
 

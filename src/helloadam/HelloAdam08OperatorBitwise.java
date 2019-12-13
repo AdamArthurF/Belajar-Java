@@ -2,7 +2,7 @@ package helloadam;
 
 public class HelloAdam08OperatorBitwise {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
        
         // Operator Bitwise --> Operator untuk melakukan operasi pada nilai bit
     

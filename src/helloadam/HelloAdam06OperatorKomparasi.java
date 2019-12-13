@@ -2,7 +2,7 @@ package helloadam;
 
 public class HelloAdam06OperatorKomparasi {
 
-    public static void main(String[] args){    
+    public static void main(String[] MbahPutih){
     
     /* Operator Komparasi adalah operator yang akan menghasilkan nilai dalam
         bentuk boolean

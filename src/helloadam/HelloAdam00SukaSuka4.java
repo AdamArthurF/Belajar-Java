@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class HelloAdam00SukaSuka4 {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] MbahPutih) throws IOException {
 
         FileInputStream inputFile = new FileInputStream("input2.txt");
 

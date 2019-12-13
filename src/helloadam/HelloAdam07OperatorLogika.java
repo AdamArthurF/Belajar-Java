@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class HelloAdam07OperatorLogika {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
 
         /*Operator Logika --> Operasi yang biasa kita lakukan pada tipe data 
         boolean*/

@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Tugas04MenukarNilai {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         int a,b,c,d,x,y;
         Scanner inputUser;
             inputUser = new Scanner(System.in);

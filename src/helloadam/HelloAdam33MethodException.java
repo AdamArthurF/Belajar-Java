@@ -4,7 +4,7 @@ import java.util.*;
 
 public class HelloAdam33MethodException {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         int[] arrayData = {0,1,2,3};
 
         Scanner userInput = new Scanner(System.in);

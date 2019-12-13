@@ -5,7 +5,7 @@ import java.util.jar.JarOutputStream;
 
 public class Tugas18TotalGaji {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         Scanner inputUser;
         inputUser = new Scanner(System.in);
         double gaji;

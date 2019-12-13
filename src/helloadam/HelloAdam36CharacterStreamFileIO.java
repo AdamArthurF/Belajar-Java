@@ -4,7 +4,7 @@ import java.io.*;
 
 public class HelloAdam36CharacterStreamFileIO {
 
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] MbahPutih) throws IOException{
         // Membuka File
 
         // byte stream -> FileInputStream

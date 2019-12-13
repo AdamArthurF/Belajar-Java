@@ -1,8 +1,11 @@
 package mandiri;
 
+import java.util.*;
+
 public class Mandiri04MenggambarSegitiga {
 
     public static void main(String[] MbahPutih) {
+        Scanner inputUser = new Scanner(System.in);
         int i,j;
 
         System.out.println("====== PERSEGI ======");
@@ -64,9 +67,52 @@ public class Mandiri04MenggambarSegitiga {
 
         System.out.println("====== SEGITIGA ======");
 
-        for (i = 0;i < 9;i++){
-            for (j = 0;j < 18;j++){
-                if (i + j < 9 || j - i > 9){
+//        String kalimatTanpaSpasi = kalimat.replaceAll("\\s+","");
+        String kalimat = "SAYA SEDANG BELAJAR KEAMANAN KOMPUTER";
+        String kalimatTanpaSpasi = kalimat.replaceAll("\\s+", "");
+        String[] kata = kalimatTanpaSpasi.split("");
+        System.out.println(Arrays.toString(kata));
+        int indeks = 0;
+
+//        char[][] kalimat = new char[][];
+        for (i = 0;i < 7 ;i++) {
+            for (j = 7;j > i;j--) {
+                System.out.print(" ");
+            }
+            for (int k = 1;k <= (2 * i - 1);k++) {
+                if (indeks == kata.length) {
+                    System.out.print("X");
+                    continue;
+                }
+                System.out.print(kata[indeks]);
+                indeks++;
+            }
+            System.out.print("\n");
+        }
+        System.out.print("\n");
+
+        indeks = 0;
+        for (i = 0;i < 6;i++){
+            for (j = 0;j < 12;j++){
+                if (i + j < 6 || j - i > 6){
+                    System.out.print(" ");
+                } else {
+//                    System.out.print("*  ");
+                    if (indeks == kata.length) {
+                        System.out.print("X");
+                        continue;
+                    }
+                    System.out.print(kata[indeks]);
+                    indeks++;
+                }
+            }
+            System.out.print("\n");
+        }
+        System.out.print("\n");
+
+        for (i = 0;i < 6;i++){
+            for (j = 0;j < 12;j++){
+                if (i + j < 6 || j - i > 6){
                     System.out.print("   ");
                 } else {
                     System.out.print("*  ");

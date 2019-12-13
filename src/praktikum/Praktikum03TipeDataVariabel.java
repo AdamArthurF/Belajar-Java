@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Praktikum03TipeDataVariabel {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
 
         System.out.println("Hello World");
         System.out.println("Hello World 2");

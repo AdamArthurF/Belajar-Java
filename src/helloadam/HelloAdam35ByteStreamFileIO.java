@@ -4,7 +4,7 @@ import java.io.*;
 
 public class HelloAdam35ByteStreamFileIO {
 
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] MbahPutih) throws IOException{
         FileInputStream fileInput = null;
         FileOutputStream fileOutput = null;
 

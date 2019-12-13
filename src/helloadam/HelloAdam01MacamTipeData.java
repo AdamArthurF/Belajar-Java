@@ -2,7 +2,7 @@ package helloadam;
 
 public class HelloAdam01MacamTipeData{
 
-    public static void main(String[] args){
+    public static void main(String[] MbahPutih){
     //Macam - macam tipe data di Java
     // Integer, byte, short, long, double, char & boolean
         

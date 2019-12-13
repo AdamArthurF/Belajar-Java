@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Tugas23KaliNBilangan {
     static Scanner inputUser = new Scanner(System.in);
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         int i,n;
 
         System.out.println("====== KALI N BILANGAN DENGAN PERCABANGAN IF ======");

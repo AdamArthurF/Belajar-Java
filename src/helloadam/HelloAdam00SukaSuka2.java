@@ -4,7 +4,7 @@ import java.io.*;
 
 public class HelloAdam00SukaSuka2 {
 
-    public static void main(String[] args) throws java.lang.Exception {
+    public static void main(String[] MbahPutih) throws java.lang.Exception {
 
         System.out.println("=====================================");
         System.out.println("====== MASUKKAN IDENTITAS ANDA ======");

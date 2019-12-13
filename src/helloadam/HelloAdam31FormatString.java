@@ -4,7 +4,7 @@ import java.util.Formatter;
 
 public class HelloAdam31FormatString {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
 
         String nama = "Udin";
         int umur = 17;

@@ -4,13 +4,13 @@ import java.util.*;
 
 public class Praktikum07Method {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         Scanner inputUser;
         inputUser = new Scanner(System.in);
         int a,b,c,d,e,umur;
         String nama;
 
-        garis();                            // Memanggil method
+        garis();     // Memanggil method
 
         System.out.print("Nama = ");
         nama = inputUser.nextLine();
@@ -81,10 +81,27 @@ public class Praktikum07Method {
         x++;
         return x;
     }
+
     // Parameter by reference (parameter non primitif)
     public static void tukar(int[] x){
-        int temp;
-        temp = x[0]; x[0] = x[1]; x[1] = temp;
+        int temporary;
+        temporary = x[0];
+        x[0] = x[1];
+        x[1] = temporary;
+    }
+
+    public static int pangkat(int a, int b) {
+        int hasil = 1;
+        for (int i = 1;i <= b;i++) {
+            hasil = hasil * a;
+        }
+        return hasil;
+    }
+
+    public static void pangkatArray(int[] a,int b) {
+        for (int i = 0;i < a.length;i++) {
+            a[i] = pangkat(a[i], b);
+        }
     }
 
     // Method dengan rekursif

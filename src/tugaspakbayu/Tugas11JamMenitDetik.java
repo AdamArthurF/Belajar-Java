@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Tugas11JamMenitDetik {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
         Scanner inputUser;
         inputUser = new Scanner(System.in);
         int jam,menit,detik,jam2,menit2,detik2,jam3,menit3,detik3,d_jam,d_jam2,d_menit,d_menit2,d_jml,d_jml2;

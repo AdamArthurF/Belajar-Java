@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Tugas02ProgramHitung {
 
-    public static void main(String[] args) {
+    public static void main(String[] MbahPutih) {
 
     Scanner inputUser = new Scanner(System.in);
     
