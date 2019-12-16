@@ -26,58 +26,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam00SukaSuka2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam00SukaSuka2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam00SukaSuka4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam00SukaSuka4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam01MacamTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam01MacamTipeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam02OperasiAritmetika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam02OperasiAritmetika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam03KonversiTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam03KonversiTipeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam04OperatorUnary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam04OperatorUnary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam05OperatorAssignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam05OperatorAssignments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam06OperatorKomparasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam06OperatorKomparasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam07OperatorLogika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam07OperatorLogika.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam08OperatorBitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam08OperatorBitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam09UserInputScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam09UserInputScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam10AlgoritmaPercabangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam10AlgoritmaPercabangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam31FormatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam31FormatString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam32MengenalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam32MengenalException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam33MethodException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam33MethodException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam34PengenalanIOStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam34PengenalanIOStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam35ByteStreamFileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam35ByteStreamFileIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam36CharacterStreamFileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam36CharacterStreamFileIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri04MenggambarSegitiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mandiri/Mandiri04MenggambarSegitiga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praktikum/Praktikum01Alice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praktikum/Praktikum01Alice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praktikum/Praktikum02Dasar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praktikum/Praktikum02Dasar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praktikum/Praktikum03TipeDataVariabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praktikum/Praktikum03TipeDataVariabel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praktikum/Praktikum04Percabangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praktikum/Praktikum04Percabangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praktikum/Praktikum05Perulangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praktikum/Praktikum05Perulangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praktikum/Praktikum06Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praktikum/Praktikum06Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praktikum/Praktikum07Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/praktikum/Praktikum07Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas01SegitigaSamaKaki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas01SegitigaSamaKaki.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas02ProgramHitung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas02ProgramHitung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas03WaktuBertemu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas03WaktuBertemu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas04MenukarNilai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas04MenukarNilai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas05RatarataSKS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas05RatarataSKS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas06KelulusanMahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas06KelulusanMahasiswa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas07MenentukanBilangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas07MenentukanBilangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas08DiskonBelanja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas08DiskonBelanja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas09KonversiSuhu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas09KonversiSuhu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas10GenapGanjil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas10GenapGanjil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas11JamMenitDetik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas11JamMenitDetik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas12MengurutkanData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas12MengurutkanData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas13TigaBilanganInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas13TigaBilanganInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas14AngkaDiantara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas14AngkaDiantara.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas15CetakKarakter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas15CetakKarakter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas16JumlahDeretKeN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas16JumlahDeretKeN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas17RataNBilangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas17RataNBilangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas18TotalGaji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas18TotalGaji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas19KelulusanMahasiswa2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas19KelulusanMahasiswa2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas20PersamaanKuadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas20PersamaanKuadrat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas21JumlahDeretKeN2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas21JumlahDeretKeN2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas22DeretAritmetika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas22DeretAritmetika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas23KaliNBilangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas23KaliNBilangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas32Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas32Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas33Absolut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas33Absolut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas34Max3Bilangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas34Max3Bilangan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas43CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas43CRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +92,20 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Praktikum06Array">
+  <component name="RunManager" selected="Application.HelloAdam08OperatorBitwise">
+    <configuration name="HelloAdam08OperatorBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam08OperatorBitwise" />
+      <module name="HelloAdam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloadam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloAdam28PengenalanString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam28PengenalanString" />
       <module name="HelloAdam2" />
@@ -195,26 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tugas42DeretFibonacciRekursif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tugaspakbayu.Tugas42DeretFibonacciRekursif" />
-      <module name="HelloAdam2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tugaspakbayu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloAdam08OperatorBitwise" />
         <item itemvalue="Application.Praktikum06Array" />
         <item itemvalue="Application.Mandiri04MenggambarSegitiga" />
         <item itemvalue="Application.HelloAdam29OperasiString" />
         <item itemvalue="Application.HelloAdam28PengenalanString" />
-        <item itemvalue="Application.Tugas42DeretFibonacciRekursif" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576115317079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Menambahkan copyright">
+      <created>1576231009854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576231009854</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -317,7 +274,8 @@
     </ignored-roots>
     <MESSAGE value="Sedikit perbaikan" />
     <MESSAGE value="Sedikit perbaikan bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sedikit perbaikan bug" />
+    <MESSAGE value="Menambahkan copyright" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan copyright" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="27" width="526" height="741" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575171213323">
@@ -328,11 +286,11 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1576115316160">
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1576231008727">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576115316160" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1576018999137" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1576231008727" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -354,40 +312,41 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969333089" />
-    <state width="452" height="538" key="GridCell.Tab.0.bottom" timestamp="1576149736848">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="452" height="565" key="GridCell.Tab.0.bottom" timestamp="1576457542692">
+      <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736848" />
-    <state width="357" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151680" />
+    <state width="452" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="656" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576018869014" />
-    <state width="452" height="538" key="GridCell.Tab.0.center" timestamp="1576149736847">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="452" height="565" key="GridCell.Tab.0.center" timestamp="1576457542692">
+      <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
-    <state width="357" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151679" />
+    <state width="452" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="656" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576018869013" />
-    <state width="452" height="538" key="GridCell.Tab.0.left" timestamp="1576149736847">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="452" height="565" key="GridCell.Tab.0.left" timestamp="1576457542692">
+      <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
-    <state width="357" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151679" />
+    <state width="452" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="656" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576018869012" />
-    <state width="452" height="538" key="GridCell.Tab.0.right" timestamp="1576149736847">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="452" height="565" key="GridCell.Tab.0.right" timestamp="1576457542692">
+      <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
-    <state width="357" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575554151680" />
+    <state width="452" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="656" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576018869013" />
     <state x="1538" y="4" width="1022" height="737" key="SettingsEditor" timestamp="1575969221524">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
-    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576115414927">
+    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576231016549">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576115414927" />
     <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968760079" />
+    <state x="278" y="139" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1576231016549" />
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575897519770">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

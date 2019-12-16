@@ -5,10 +5,8 @@ public class HelloAdam08OperatorBitwise {
     public static void main(String[] MbahPutih) {
        
         // Operator Bitwise --> Operator untuk melakukan operasi pada nilai bit
-    
-    byte a,b,c;
-    String a_bits,b_bits,c_bits;
-
+        byte a,b,c;
+        String a_bits,b_bits,c_bits;
 
         //Operator SHIFT LEFT
         System.out.println("===== SHIFT LEFT (<<) =====");
