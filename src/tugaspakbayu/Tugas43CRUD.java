@@ -22,10 +22,9 @@ public class Tugas43CRUD {
             System.out.println("3.\tBarang Masuk");
             System.out.println("4.\tBarang Keluar");
             System.out.println("5.\tData Supplier");
-            System.out.println("6.\tData Peminjaman");
-            System.out.println("7.\tData Transaksi");
-            System.out.println("8.\tUpdate Barang");
-            System.out.println("9.\tDelete Barang");
+            System.out.println("6.\tData Peminjam");
+            System.out.println("7.\tUpdate Barang");
+            System.out.println("8.\tDelete Barang");
 
             System.out.print("\nPilihan kamu : ");
             pilihanUser = inputUser.nextLine();
@@ -58,7 +57,6 @@ public class Tugas43CRUD {
                     System.out.println("                                ====== BARANG KELUAR ======");
                     System.out.println("                                ===========================\n");
                     barangKeluar();
-                    listBarang();
                     break;
                 case "5" :
                     System.out.print("\n");
@@ -76,19 +74,12 @@ public class Tugas43CRUD {
                     break;
                 case "7" :
                     System.out.print("\n");
-                    System.out.println("                                ============================");
-                    System.out.println("                                ====== DATA TRANSAKSI ======");
-                    System.out.println("                                ============================\n");
-                    dataTransaksi();
-                    break;
-                case "8" :
-                    System.out.print("\n");
                     System.out.println("                                ===========================");
                     System.out.println("                                ====== UPDATE BARANG ======");
                     System.out.println("                                ===========================\n");
                     updateBarang();
                     break;
-                case "9" :
+                case "8" :
                     System.out.print("\n");
                     System.out.println("                                ===========================");
                     System.out.println("                                ====== DELETE BARANG ======");
@@ -174,7 +165,7 @@ public class Tugas43CRUD {
 
         // Mengambil input dari user untuk menambah data
         Scanner inputUser = new Scanner(System.in);
-        String jawab,supplier, jenis, merk, seri, tahun;
+        String jawab, supplier, pilihJenis, jenis = null, merk, seri, tahun;
         int stok;
 
         System.out.println("A. Tambah barang baru");
@@ -192,8 +183,17 @@ public class Tugas43CRUD {
         if (jawab.equalsIgnoreCase("A")){
             System.out.print("Masukkan supplier : ");
             supplier = inputUser.nextLine();
+            System.out.println("Jenis Barang : ");
+            System.out.println("1. Elektronik");
+            System.out.println("2. Transportasi");
             System.out.print("Masukkan jenis barang : ");
-            jenis = inputUser.nextLine();
+            pilihJenis = inputUser.nextLine();
+            if (pilihJenis.equals("1")) {
+                jenis = "Elektronik";
+            } else if (pilihJenis.equals("2")) {
+                jenis = "Transportasi";
+            }
+
             System.out.print("Masukan merk barang : ");
             merk = inputUser.nextLine();
             System.out.print("Masukan seri barang : ");
@@ -227,21 +227,37 @@ public class Tugas43CRUD {
                 listBarang();
             }
         } else if (jawab.equalsIgnoreCase("B")){
-            System.out.print("Masukkan supplier : ");
-            supplier = inputUser.nextLine();
-            System.out.print("Masukkan jenis barang : ");
-            jenis = inputUser.nextLine();
-            System.out.print("Masukan merk barang : ");
-            merk = inputUser.nextLine();
-            System.out.print("Masukan seri barang : ");
-            seri = inputUser.nextLine();
-            System.out.print("Masukan tahun barang (YYYY) : ");
-            tahun = ambilTahun();
-            System.out.print("Masukkan banyak nya barang : ");
-            stok = inputUser.nextInt(); inputUser.nextLine();
+            File database = new File("inventory.txt");
+            FileReader fileInput = new FileReader(database);
+            BufferedReader bufferInput = new BufferedReader(fileInput);
 
-            String[] keywords = {tahun + "," + jenis + "," + merk + "," + seri};
-            tambahStok(keywords,stok);
+            // Tampilkan data terlebih dahulu
+            listBarang();
+            System.out.print("Masukkan nomor barang yang akan ditambah stoknya : ");
+            int nomor = inputUser.nextInt();
+            System.out.print("Berapa jumlah yang akan ditambahkan : ");
+            int stok2 = inputUser.nextInt();
+
+            String data = bufferInput.readLine();
+            String tahun2 = null,jenis2 = null,merk2 = null,seri2 = null;
+            int nomorData = 0;
+            while (data != null) {
+                nomorData++;
+                if (nomorData == nomor) {
+                    StringTokenizer masukan = new StringTokenizer(data, ",");
+                    masukan.nextToken(); // Primary keys
+                    masukan.nextToken(); // Supplier
+                    masukan.nextToken(); // Stok
+                    tahun2 = masukan.nextToken();
+                    jenis2 = masukan.nextToken();
+                    merk2 = masukan.nextToken();
+                    seri2 = masukan.nextToken();
+                }
+                data = bufferInput.readLine();
+            }
+            String[] keywords = {tahun2 + "," + jenis2 + "," + merk2 + "," + seri2};
+            tambahStok(keywords,stok2);
+            listBarang();
         }
 
         // Jangan lupa untuk menutup file
@@ -267,12 +283,9 @@ public class Tugas43CRUD {
         Scanner inputUser = new Scanner(System.in);
         System.out.print("Masukkan nama peminjam : ");
         String peminjam = inputUser.nextLine();
-        tambahPeminjam(peminjam);
 
         System.out.print("Masukkan nomor barang yang akan dipinjamkan : ");
         int nomorPinjam = inputUser.nextInt();
-        System.out.print("Jumlah yang akan dipinjamkan : ");
-        int jumlahPinjam = inputUser.nextInt();
 
         // Tampilkan data yang ingin diupdate
         String data = bufferInput.readLine();
@@ -285,6 +298,9 @@ public class Tugas43CRUD {
 
             // Tampilkan data entrycounts = nomorPinjam
             if (nomorPinjam == entryCounts) {
+                System.out.print("Jumlah yang akan dipinjamkan : ");
+                int jumlahPinjam = inputUser.nextInt();
+
                 String[] fieldData = {"supplier", "stok", "tahun", "jenis", "merk", "seri"};
                 String[] tempData = new String[6];
 
@@ -292,17 +308,19 @@ public class Tugas43CRUD {
                 String originalData = masukan.nextToken();
                 for (int i = 0;i < fieldData.length;i++) {
                     originalData = masukan.nextToken();
-                    if (i == 1) {
+                    if (i == 1) { // stok
                         stokAwal = Integer.parseInt(originalData);
                         tempData[i] = String.valueOf(stokAwal - jumlahPinjam);
                     } else {
                         tempData[i] = originalData;
                     }
                 }
+
                 if (stokAwal - jumlahPinjam <= 0) {
                     JOptionPane.showMessageDialog(null,"Stok tidak mencukupi! \nProses peminjaman dibatalkan!","Error",JOptionPane.ERROR_MESSAGE);
                     return;
                 }
+                tambahPeminjam(peminjam);
 
                 // Tampilkan data ke layar
                 masukan = new StringTokenizer(data, ",");
@@ -336,6 +354,8 @@ public class Tugas43CRUD {
 
                     // Tulis data kedalam database sementara (temporary.txt)
                     bufferOutput.write(primaryKey + "," + supplier + "," + stokBaru + "," + tahun + "," + jenis + "," + merk + "," + seri);
+                    JOptionPane.showMessageDialog(null,"Barang berhasil dipinjamkan!","Pemberitahuan",JOptionPane.INFORMATION_MESSAGE);
+                    listBarang();
                 } else {
                     // Copy data
                     bufferOutput.write(data);
@@ -344,8 +364,13 @@ public class Tugas43CRUD {
                 // Copy data
                 bufferOutput.write(data);
             }
+
             bufferOutput.newLine();
             data = bufferInput.readLine();
+        }
+        if (nomorPinjam > entryCounts) {
+            JOptionPane.showMessageDialog(null,"Barang tidak ditemukan! \nProses peminjaman dibatalkan!","Error",JOptionPane.ERROR_MESSAGE);
+            return;
         }
 
         // Menulis data kedalam file temporary database (temporary.txt)
@@ -435,9 +460,6 @@ public class Tugas43CRUD {
             System.out.println(nomor + peminjam);
             data = bufferInput.readLine();
         }
-    }
-
-    public static void dataTransaksi() throws IOException{
     }
 
     public static void updateBarang() throws IOException{
@@ -826,8 +848,8 @@ public class Tugas43CRUD {
                     // Tulis data kedalam database sementara (temporary.txt)
                     bufferOutput.write(primaryKey + "," + supplier + "," + stokBaru + "," + tahun + "," + jenis + "," + merk + "," + seri);
 
-                    System.out.println("Data barang berhasil ditambahkan!");
-                    JOptionPane.showMessageDialog(null,"Data barang berhasil ditambahkan!","Pemberitahuan",JOptionPane.INFORMATION_MESSAGE);
+                    System.out.println("Stok barang berhasil ditambahkan!");
+                    JOptionPane.showMessageDialog(null,"Stok barang berhasil ditambahkan!","Pemberitahuan",JOptionPane.INFORMATION_MESSAGE);
                 } else {
                     // Copy data
                     bufferOutput.write(data);
