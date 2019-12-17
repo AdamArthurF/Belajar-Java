@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576494345937</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sedikit pembaharuan">
+      <created>1576558254686</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576558254686</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -282,7 +289,8 @@
     <MESSAGE value="Sedikit perbaikan bug" />
     <MESSAGE value="Menambahkan copyright" />
     <MESSAGE value="update secara besar-besaran di bagian tugaspakbayu/project CRUD" />
-    <option name="LAST_COMMIT_MESSAGE" value="update secara besar-besaran di bagian tugaspakbayu/project CRUD" />
+    <MESSAGE value="Sedikit pembaharuan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sedikit pembaharuan" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="27" width="526" height="741" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575171213323">
@@ -293,11 +301,11 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="1525" y="0" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1576494344277">
+    <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1576558253509">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576115316160" />
-    <state x="1525" y="0" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576494344277" />
+    <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576558253509" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1576231008727" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
@@ -349,11 +357,11 @@
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
-    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576494380495">
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576558267307">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576115414927" />
-    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576494380495" />
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576558267307" />
     <state x="278" y="139" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1576231016549" />
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575897519770">
       <screen x="0" y="27" width="1366" height="741" />

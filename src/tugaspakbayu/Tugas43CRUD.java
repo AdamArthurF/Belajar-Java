@@ -235,8 +235,6 @@ public class Tugas43CRUD {
             listBarang();
             System.out.print("Masukkan nomor barang yang akan ditambah stoknya : ");
             int nomor = inputUser.nextInt();
-            System.out.print("Berapa jumlah yang akan ditambahkan : ");
-            int stok2 = inputUser.nextInt();
 
             String data = bufferInput.readLine();
             String tahun2 = null,jenis2 = null,merk2 = null,seri2 = null;
@@ -255,6 +253,13 @@ public class Tugas43CRUD {
                 }
                 data = bufferInput.readLine();
             }
+            if (nomor > nomorData) {
+                JOptionPane.showMessageDialog(null,"Barang tidak ditemukan!","Error",JOptionPane.ERROR_MESSAGE);
+                return;
+            }
+            System.out.print("Berapa jumlah yang akan ditambahkan : ");
+            int stok2 = inputUser.nextInt();
+
             String[] keywords = {tahun2 + "," + jenis2 + "," + merk2 + "," + seri2};
             tambahStok(keywords,stok2);
             listBarang();
