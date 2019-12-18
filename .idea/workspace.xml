@@ -232,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576558254686</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Sedikit pembaharuan">
+      <created>1576575148154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576575148154</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -301,11 +308,11 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1576558253509">
+    <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1576575146993">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576115316160" />
-    <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576558253509" />
+    <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1576231008727" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
@@ -357,11 +364,11 @@
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
-    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576558267307">
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576575155393">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576115414927" />
-    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576558267307" />
+    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575155393" />
     <state x="278" y="139" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1576231016549" />
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575897519770">
       <screen x="0" y="27" width="1366" height="741" />
@@ -379,10 +386,10 @@
     <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575952022989" />
     <state x="1815" y="295" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968798767" />
     <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1576019181681" />
-    <state x="487" y="27" width="879" height="685" key="dock-window-1" timestamp="1575962838270">
+    <state x="487" y="27" width="879" height="685" key="dock-window-1" timestamp="1576651381569">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="487" y="27" width="879" height="685" key="dock-window-1/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575957076267" />
+    <state x="487" y="27" width="879" height="685" key="dock-window-1/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576651381569" />
     <state x="487" y="27" width="879" height="685" key="dock-window-1/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575962838270" />
     <state x="1" y="27" width="733" height="685" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1575815848841" />
     <state x="107" y="55" width="733" height="685" key="dock-window-2" timestamp="1575903203632">
@@ -411,10 +418,10 @@
     </state>
     <state x="5" y="174" key="run.anything.popup/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575618383416" />
     <state x="5" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1575784620857" />
-    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup" timestamp="1576135915481">
+    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup" timestamp="1576673624140">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576135915481" />
+    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576673624140" />
     <state x="1712" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575528420174" />
     <state x="346" y="113" width="672" height="655" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1575786453539" />
   </component>
