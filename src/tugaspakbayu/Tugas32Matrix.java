@@ -8,6 +8,9 @@ public class Tugas32Matrix {
         Scanner inputUser;
         inputUser = new Scanner(System.in);
 
+        int[][] matriks0 = new int[3][3];
+        PrintArray("Matriks 0 = ",matriks0);
+
         int[][] MatriksA = {
                 {1, 2, 3},
                 {3, 4, 5},

@@ -26,6 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas32Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas32Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas43CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugaspakbayu/Tugas43CRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,22 +92,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.HelloAdam08OperatorBitwise">
+  <component name="RunManager" selected="Application.Tugas32Matrix">
     <configuration name="HelloAdam08OperatorBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam08OperatorBitwise" />
-      <module name="HelloAdam2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="helloadam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloAdam28PengenalanString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam28PengenalanString" />
       <module name="HelloAdam2" />
       <extension name="coverage">
         <pattern>
@@ -157,13 +145,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tugas32Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugaspakbayu.Tugas32Matrix" />
+      <module name="HelloAdam2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tugaspakbayu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tugas32Matrix" />
         <item itemvalue="Application.HelloAdam08OperatorBitwise" />
         <item itemvalue="Application.Praktikum06Array" />
         <item itemvalue="Application.Mandiri04MenggambarSegitiga" />
         <item itemvalue="Application.HelloAdam29OperasiString" />
-        <item itemvalue="Application.HelloAdam28PengenalanString" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576575148154</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Sedikit pembaharuan">
+      <created>1576674063954</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576674063954</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -308,10 +316,10 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1576575146993">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="159" y="27" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1576674063232">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576115316160" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576674063232" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1576231008727" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
@@ -335,49 +343,53 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969333089" />
-    <state width="452" height="565" key="GridCell.Tab.0.bottom" timestamp="1576457542692">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="452" height="565" key="GridCell.Tab.0.bottom" timestamp="1576734221345">
+      <screen x="0" y="27" width="2732" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736848" />
     <state width="452" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="656" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576018869014" />
-    <state width="452" height="565" key="GridCell.Tab.0.center" timestamp="1576457542692">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="452" height="565" key="GridCell.Tab.0.bottom/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
+    <state width="452" height="565" key="GridCell.Tab.0.center" timestamp="1576734221344">
+      <screen x="0" y="27" width="2732" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="656" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576018869013" />
-    <state width="452" height="565" key="GridCell.Tab.0.left" timestamp="1576457542692">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="452" height="565" key="GridCell.Tab.0.center/0.27.2732.741@0.27.2732.741" timestamp="1576734221344" />
+    <state width="452" height="565" key="GridCell.Tab.0.left" timestamp="1576734221344">
+      <screen x="0" y="27" width="2732" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="656" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576018869012" />
-    <state width="452" height="565" key="GridCell.Tab.0.right" timestamp="1576457542692">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="452" height="565" key="GridCell.Tab.0.left/0.27.2732.741@0.27.2732.741" timestamp="1576734221344" />
+    <state width="452" height="565" key="GridCell.Tab.0.right" timestamp="1576734221345">
+      <screen x="0" y="27" width="2732" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="656" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576018869013" />
+    <state width="452" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
     <state x="1538" y="4" width="1022" height="737" key="SettingsEditor" timestamp="1575969221524">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
-    <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576575155393">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576674149985">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576115414927" />
+    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576674149985" />
     <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575155393" />
     <state x="278" y="139" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1576231016549" />
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575897519770">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575897519770" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576024363903">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577151987157">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576024363903" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577151987157" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575852888350" />
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1576018396128" />
     <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576019181681">

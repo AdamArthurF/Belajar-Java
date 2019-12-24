@@ -87,7 +87,7 @@ public class Tugas43CRUD {
                     deleteBarang();
                     break;
                 default :
-                    System.err.println("\nInput anda tidak ditemukan\nSilahkan pilih 1 s.d 5");
+                    System.err.println("\nInput anda tidak ditemukan\nSilahkan pilih 1 s.d 8");
                     JOptionPane.showMessageDialog(null,"Input anda tidak ditemukan\nSilahkan pilih 1 s.d 5","Wah error nih",JOptionPane.ERROR_MESSAGE);
             }
             lanjutkan = GET_YES_OR_NO("Apakah anda ingin melanjutkan?"); // Sebagai konfirmasi
