@@ -1,5 +1,5 @@
 # Belajar-Java
-Belajar Java itu sebenarnya asyik dan menyenangkan, oleh karena itu jangan pusing ya gais, oke...
+Belajar Java itu sebenarnya asyik dan menyenangkan lho, oleh karena itu jangan pusing ya teman-teman, oke... :)
 
 Panduan buat kalian : 
 1. Langsung saja menuju folder src gais
