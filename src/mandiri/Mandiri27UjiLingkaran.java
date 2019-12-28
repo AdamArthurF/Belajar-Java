@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2019. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
 package mandiri;
 
 public class Mandiri27UjiLingkaran {
@@ -19,11 +27,11 @@ public class Mandiri27UjiLingkaran {
 
 class Lingkaran1 {
     double jariJari;
-    Lingkaran1(){
+    public Lingkaran1(){
         jariJari = 1.0;
     }
 
-    Lingkaran1(double radiusBaru) {
+    public Lingkaran1(double radiusBaru) {
         jariJari = radiusBaru;
     }
 

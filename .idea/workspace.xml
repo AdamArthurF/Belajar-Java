@@ -26,6 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri27UjiLingkaran.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mandiri/Mandiri27UjiLingkaran.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577506489749</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Menambahkan copyright lagi">
+      <created>1577543269967</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1577543269968</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -325,7 +333,8 @@
     <MESSAGE value="Sedikit pembaharuan" />
     <MESSAGE value="Sedikit perbaikan" />
     <MESSAGE value="Sedikit perbaikan pada Intellij IDEA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sedikit perbaikan pada Intellij IDEA" />
+    <MESSAGE value="Menambahkan copyright lagi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan copyright lagi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="27" width="526" height="741" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575171213323">
@@ -336,11 +345,12 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="159" y="27" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1577506487482">
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1577543268648">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543268648" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1577506487482" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
