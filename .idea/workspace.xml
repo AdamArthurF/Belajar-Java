@@ -25,6 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +81,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/helloadam/HelloAdam40CRUD.java&#10;/media/adam/A86EC6566EC61CC6/Data/Data Pribadi/My JAVA/HelloAdam2/src/mandiri/Mandiri47ClassMemasak.java&#10;/media/adam/A86EC6566EC61CC6/Data/Data Pribadi/My JAVA/HelloAdam2/src/helloadam/HelloAdam41AccessModifier.java&#10;/media/adam/A86EC6566EC61CC6/Data/Data Pribadi/My JAVA/HelloAdam2/src/tugaspakbayu/Tugas43CRUD.java" />
+    <property name="add_unversioned_files" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA_dasar_programming-master" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
@@ -252,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577152122189</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Sedikit perbaikan">
+      <created>1577364057260</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1577364057260</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -305,12 +313,12 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Sedikit perbaikan" />
     <MESSAGE value="Sedikit perbaikan bug" />
     <MESSAGE value="Menambahkan copyright" />
     <MESSAGE value="update secara besar-besaran di bagian tugaspakbayu/project CRUD" />
     <MESSAGE value="Sedikit pembaharuan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sedikit pembaharuan" />
+    <MESSAGE value="Sedikit perbaikan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sedikit perbaikan" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="27" width="526" height="741" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575171213323">
@@ -321,10 +329,10 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="159" y="27" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1577152120734">
+    <state x="159" y="27" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1577364056412">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577152120734" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1576231008727" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
@@ -381,10 +389,10 @@
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
-    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1577361936048">
+    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1577364064288">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577361936048" />
+    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364064288" />
     <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575155393" />
     <state x="278" y="139" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1576231016549" />
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575897519770">

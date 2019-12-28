@@ -1,0 +1,6 @@
+AppleMacbook_2017_1,2017,Elektronik,Apple,Apple MacBook Pro i5
+AsusRog_2018_1,2018,Elektronik,Asus,Asus ROG STRIX HERO GL503GE i7
+AcerPedator_2019_1,2019,Elektronik,Acer,Acer Predator Triton 300 i7
+Lenovo_2019_1,2019,Elektronik,Lenovo,Lenovo Legion Y740 i7
+Samsung_2019_1,2019,Elektronik,Samsung,Samsung Galaxy J9 Premium
+Xiaomi_2020_1,2020,Elektronik,Xiaomi,Note 10 
