@@ -25,7 +25,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.22290389" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.Tugas32Matrix">
@@ -260,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577364057260</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Sedikit perbaikan pada Intellij IDEA">
+      <created>1577506489749</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577506489749</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -318,7 +324,8 @@
     <MESSAGE value="update secara besar-besaran di bagian tugaspakbayu/project CRUD" />
     <MESSAGE value="Sedikit pembaharuan" />
     <MESSAGE value="Sedikit perbaikan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sedikit perbaikan" />
+    <MESSAGE value="Sedikit perbaikan pada Intellij IDEA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sedikit perbaikan pada Intellij IDEA" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="27" width="526" height="741" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575171213323">
@@ -329,12 +336,12 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="159" y="27" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1577364056412">
+    <state x="159" y="27" width="1038" height="768" key="CommitChangelistDialog2" timestamp="1577506487482">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1576231008727" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1577506487482" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -384,11 +391,12 @@
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="656" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576018869013" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
-    <state x="1538" y="4" width="1022" height="737" key="SettingsEditor" timestamp="1575969221524">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="172" y="31" width="1012" height="737" key="SettingsEditor" timestamp="1577543230764">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
+    <state x="172" y="31" width="1012" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543230764" />
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1577364064288">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
