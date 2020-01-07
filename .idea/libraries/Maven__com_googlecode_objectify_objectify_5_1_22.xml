@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: com.googlecode.objectify:objectify:5.1.22" type="repository">
+    <properties maven-id="com.googlecode.objectify:objectify:5.1.22" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.22/objectify-5.1.22.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.22/objectify-5.1.22-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.22/objectify-5.1.22-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

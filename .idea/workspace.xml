@@ -25,8 +25,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Java_Dasar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/helloadam.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__4_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__5_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__6_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_endpoints_endpoints_framework_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_objectify_objectify_5_1_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainmain/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri27UjiLingkaran.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mandiri/Mandiri27UjiLingkaran.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloAdam2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdamJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Lingkaran1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Lingkaran1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri22JumlahArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri22JumlahArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri27UjiLingkaran.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri27UjiLingkaran.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas43CRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas43CRUD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam01MacamTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam01MacamTipeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam02OperasiAritmetika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam02OperasiAritmetika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam03KonversiTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam03KonversiTipeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam04OperatorUnary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam04OperatorUnary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam05OperatorAssignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam05OperatorAssignments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam06OperatorKomparasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam06OperatorKomparasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam07OperatorLogika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam07OperatorLogika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam08OperatorBitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam08OperatorBitwise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam09UserInputScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam09UserInputScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri22JumlahArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mandiri/Mandiri22JumlahArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +72,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
+        <option value="app" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -72,18 +104,22 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RNLwHJq8EO8oXfehSQpCdDx7jc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="add_unversioned_files" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA_dasar_programming-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.22290389" />
@@ -91,10 +127,15 @@
     <property name="settings.editor.selected.configurable" value="copyright" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Tugas32Matrix">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Mandiri22JumlahArray">
     <configuration name="HelloAdam08OperatorBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam08OperatorBitwise" />
-      <module name="HelloAdam2" />
+      <module name="HelloAdamJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="helloadam.*" />
@@ -105,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloAdam29OperasiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloadam.HelloAdam29OperasiString" />
-      <module name="HelloAdam2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP01Pendahuluan.Main" />
+      <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="helloadam.*" />
+          <option name="PATTERN" value="OOP01Pendahuluan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,9 +159,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mandiri04MenggambarSegitiga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mandiri.Mandiri04MenggambarSegitiga" />
-      <module name="HelloAdam2" />
+    <configuration name="Mandiri22JumlahArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mandiri.Mandiri22JumlahArray" />
+      <module name="HelloAdamJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="mandiri.*" />
@@ -133,7 +174,7 @@
     </configuration>
     <configuration name="Praktikum06Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="praktikum.Praktikum06Array" />
-      <module name="HelloAdam2" />
+      <module name="HelloAdamJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="praktikum.*" />
@@ -146,7 +187,7 @@
     </configuration>
     <configuration name="Tugas32Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tugaspakbayu.Tugas32Matrix" />
-      <module name="HelloAdam2" />
+      <module name="HelloAdamJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tugaspakbayu.*" />
@@ -157,13 +198,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Google Stackdriver Debug" type="GCPDebug" factoryName="Google Stackdriver Debug">
+      <method v="2" />
+    </configuration>
+    <configuration name="Google App Engine Deployment" type="gcp-app-engine-deploy" factoryName="Google App Engine Deployment">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mandiri22JumlahArray" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Tugas32Matrix" />
         <item itemvalue="Application.HelloAdam08OperatorBitwise" />
         <item itemvalue="Application.Praktikum06Array" />
-        <item itemvalue="Application.Mandiri04MenggambarSegitiga" />
-        <item itemvalue="Application.HelloAdam29OperasiString" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577543269968</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Menambahkan copyright lagi">
+      <created>1577543602060</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1577543602060</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -324,6 +378,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
@@ -345,22 +400,23 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1577543268648">
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1577543601200">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543268648" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1577506487482" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1576019603071" />
-    <state x="1827" y="118" width="447" height="520" key="FileChooserDialogImpl" timestamp="1575969113810">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state x="461" y="141" width="424" height="520" key="FileChooserDialogImpl" timestamp="1578191763237">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="461" y="141" width="422" height="541" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575956640573" />
     <state x="1827" y="118" width="447" height="520" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969113810" />
+    <state x="461" y="141" width="424" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1578191763237" />
     <state x="1776" y="246" width="545" height="283" key="Github.CreatePullRequestDialog" timestamp="1575968638022">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
@@ -373,33 +429,33 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969333089" />
-    <state width="452" height="565" key="GridCell.Tab.0.bottom" timestamp="1576734221345">
-      <screen x="0" y="27" width="2732" height="741" />
+    <state width="411" height="538" key="GridCell.Tab.0.bottom" timestamp="1578165366814">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736848" />
     <state width="452" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="656" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576018869014" />
+    <state width="411" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578165366814" />
     <state width="452" height="565" key="GridCell.Tab.0.bottom/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
-    <state width="452" height="565" key="GridCell.Tab.0.center" timestamp="1576734221344">
-      <screen x="0" y="27" width="2732" height="741" />
+    <state width="411" height="538" key="GridCell.Tab.0.center" timestamp="1578165366813">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="656" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576018869013" />
+    <state width="411" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1578165366813" />
     <state width="452" height="565" key="GridCell.Tab.0.center/0.27.2732.741@0.27.2732.741" timestamp="1576734221344" />
-    <state width="452" height="565" key="GridCell.Tab.0.left" timestamp="1576734221344">
-      <screen x="0" y="27" width="2732" height="741" />
+    <state width="411" height="538" key="GridCell.Tab.0.left" timestamp="1578165366813">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="656" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576018869012" />
+    <state width="411" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1578165366813" />
     <state width="452" height="565" key="GridCell.Tab.0.left/0.27.2732.741@0.27.2732.741" timestamp="1576734221344" />
-    <state width="452" height="565" key="GridCell.Tab.0.right" timestamp="1576734221345">
-      <screen x="0" y="27" width="2732" height="741" />
+    <state width="411" height="538" key="GridCell.Tab.0.right" timestamp="1578165366814">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="656" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576018869013" />
+    <state width="411" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1578165366814" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
     <state x="172" y="31" width="1012" height="737" key="SettingsEditor" timestamp="1577543230764">
       <screen x="0" y="27" width="1366" height="741" />
@@ -417,12 +473,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575897519770" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577151987157">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578191396753">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577151987157" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575852888350" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1576018396128" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578191396752" />
     <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576019181681">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -440,6 +496,10 @@
     </state>
     <state x="107" y="55" width="733" height="685" key="dock-window-2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575903203632" />
     <state x="1473" y="55" width="733" height="685" key="dock-window-2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575877532694" />
+    <state x="239" y="78" width="888" height="638" key="find.popup" timestamp="1578191494017">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="239" y="78" width="888" height="638" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1578191494017" />
     <state x="1678" y="159" width="741" height="456" key="git4idea.merge.GitPullDialog" timestamp="1575968522436">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
@@ -452,10 +512,11 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1690" y="272" width="717" height="230" key="git4idea.ui.GitResetDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968917515" />
-    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1575956643153">
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1578193461064">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575956643153" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1578193461064" />
     <state x="5" y="174" key="run.anything.popup" timestamp="1575784620857">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

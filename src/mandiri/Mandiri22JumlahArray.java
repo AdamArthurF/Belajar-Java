@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
 package mandiri;
 
 import java.util.*;
@@ -12,46 +20,27 @@ public class Mandiri22JumlahArray {
         System.out.println(Arrays.toString(Angka));
 
         System.out.print("\n");
-        for (int i = 0; i < Angka.length; i++) {
-            int cari = Angka[i];
-            int posisi = Arrays.binarySearch(Angka, cari);
-            System.out.printf("Angka %d ada di indeks %d \n", cari, posisi);
-        }
-
-        System.out.print("\n");
-        int temp;
-        int ukuran = Angka.length;
-        int jumlah;
-        for (int i = 0;i < ukuran;i++){
-            temp = Angka[i];
-            jumlah = 1;
-
-            if (i != ukuran - 1) {
-                if (Angka[i] == Angka[i + 1]) {
-                    continue;
-                }
+        int indeks_i = 0, indeks_j, jumlah;
+        for (int elemen1 : Angka) {
+            System.out.println("Perulangan ke " + indeks_i);
+            jumlah = 0;
+            indeks_j = 0;
+            if (elemen1 == Angka[indeks_i + 1]) {
+                continue;
+            } else if (elemen1 == (Angka.length - 1)) {
+                break;
             }
-            System.out.printf("Angka %d jumlahnya ada ",Angka[i]);
-
-            for (int j = 1; j < ukuran; j++) {
-                if (temp != Angka[j]){
-                    System.out.printf("= %d (satu) \n",jumlah);
+            for (int elemen2: Angka) {
+                if (elemen2 == Angka.length - 1) {
                     break;
-                } else if (temp == Angka[j]) {
-                    for (int k = 2; k < ukuran; k++) {
-                        if (temp != Angka[k]) {
-                            break;
-                        } else if (temp == Angka[k + 1]){
-                            jumlah++;
-                            System.out.printf("= %d (tiga) \n",jumlah);
-                            break;
-                        }
-                    }
+                } else if (elemen1 == Angka[indeks_j + 1]) {
                     jumlah++;
-                    System.out.printf("= %d (dua) \n",jumlah);
-                    break;
                 }
+                indeks_j++;
             }
+            indeks_i++;
+            System.out.printf("Angka %d jumlahnya ada %d \n",elemen1,jumlah);
         }
+
     }
 }

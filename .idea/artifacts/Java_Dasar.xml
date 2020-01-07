@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Java-Dasar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Dasar</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Java-Dasar" />
+        </element>
+        <element id="file-copy" path="$PROJECT_DIR$/Java-Dasar/web/WEB-INF/appengine-web.xml" />
+      </element>
+    </root>
+  </artifact>
+</component>

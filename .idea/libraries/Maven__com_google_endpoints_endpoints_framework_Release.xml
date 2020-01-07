@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.endpoints:endpoints-framework:Release" type="repository">
+    <properties maven-id="com.google.endpoints:endpoints-framework:RELEASE" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/endpoints/endpoints-framework/2.2.1/endpoints-framework-2.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.6/jackson-annotations-2.9.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.60/appengine-api-1.0-sdk-1.9.60.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/flogger/flogger/0.3.1/flogger-0.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/http-client/google-http-client-jackson2/1.25.0/google-http-client-jackson2-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/http-client/google-http-client/1.25.0/google-http-client-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.10/commons-codec-1.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/api-client/google-api-client/1.25.0/google-api-client-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/oauth-client/google-oauth-client/1.25.0/google-oauth-client-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/api-client/google-api-client-appengine/1.25.0/google-api-client-appengine-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/oauth-client/google-oauth-client-appengine/1.25.0/google-oauth-client-appengine-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/oauth-client/google-oauth-client-servlet/1.25.0/google-oauth-client-servlet-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/http-client/google-http-client-jdo/1.25.0/google-http-client-jdo-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/api-client/google-api-client-servlet/1.25.0/google-api-client-servlet-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/jdo/jdo2-api/2.3-eb/jdo2-api-2.3-eb.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/transaction/transaction-api/1.1/transaction-api-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/http-client/google-http-client-appengine/1.25.0/google-http-client-appengine-1.25.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.3/commons-fileupload-1.3.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.2/commons-io-2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-models/1.5.9/swagger-models-1.5.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.3/slf4j-api-1.6.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.9/swagger-annotations-1.5.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-core/1.5.9/swagger-core-1.5.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-joda/2.4.5/jackson-datatype-joda-2.4.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.2/joda-time-2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.4.5/jackson-dataformat-yaml-2.4.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.12/snakeyaml-1.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-nop/1.7.21/slf4j-nop-1.7.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/flogger/flogger-system-backend/0.3.1/flogger-system-backend-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
