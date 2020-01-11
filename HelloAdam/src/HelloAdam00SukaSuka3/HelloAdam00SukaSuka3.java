@@ -25,10 +25,10 @@ public class HelloAdam00SukaSuka3 {
 
         nama = JOptionPane.showInputDialog(null,"Nama","Masukkan Data",JOptionPane.QUESTION_MESSAGE);
         x = JOptionPane.showInputDialog(null,"Umur : ","Masukkan Data",JOptionPane.QUESTION_MESSAGE);
-           umur = Integer.parseInt(x);   
+        umur = Integer.parseInt(x);
         jenisKelamin = JOptionPane.showInputDialog(null,"Jenis Kelamin :","Masukkan Data",JOptionPane.QUESTION_MESSAGE);
         x = JOptionPane.showInputDialog(null,"Tinggi Badan : ","Masukkan Data",JOptionPane.QUESTION_MESSAGE);
-           tinggi = Double.parseDouble(x);
+        tinggi = Double.parseDouble(x);
             
         System.out.println("Nama kamu adalah " + nama);    
         System.out.println("Umur kamu " + umur + " tahun");
