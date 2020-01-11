@@ -25,37 +25,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Java_Dasar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/helloadam.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__3_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__4_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__5_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__6_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_endpoints_endpoints_framework_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_objectify_objectify_5_1_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_51.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloAdam/HelloAdam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mainmain/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdamJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Lingkaran1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Lingkaran1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri22JumlahArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri22JumlahArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri27UjiLingkaran.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri27UjiLingkaran.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas43CRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas43CRUD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam01MacamTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam01MacamTipeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam02OperasiAritmetika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam02OperasiAritmetika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam03KonversiTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam03KonversiTipeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam04OperatorUnary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam04OperatorUnary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam05OperatorAssignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam05OperatorAssignments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam06OperatorKomparasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam06OperatorKomparasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam07OperatorLogika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam07OperatorLogika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam08OperatorBitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam08OperatorBitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam09UserInputScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloadam/HelloAdam09UserInputScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri22JumlahArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mandiri/Mandiri22JumlahArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam00SukaSuka.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka/HelloAdam00SukaSuka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam00SukaSuka2.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka2/HelloAdam00SukaSuka2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam00SukaSuka3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka3/HelloAdam00SukaSuka3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam00SukaSuka4.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka4/HelloAdam00SukaSuka4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam01MacamTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam01MacamTipeData/HelloAdam01MacamTipeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam02OperasiAritmetika.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam02OperasiAritmetika/HelloAdam02OperasiAritmetika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam03KonversiTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam03KonversiTipeData/HelloAdam03KonversiTipeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam04OperatorUnary.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam04OperatorUnary/HelloAdam04OperatorUnary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam05OperatorAssignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam05OperatorAssignment/HelloAdam05OperatorAssignments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +44,11 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="HelloAdam2" />
@@ -117,9 +102,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.22290389" />
@@ -128,6 +122,13 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="HelloAdam05OperatorAssignment" />
+      <recent name="HelloAdam04OperatorUnary" />
+      <recent name="HelloAdam03KonversiTipeData" />
+      <recent name="HelloAdam02OperasiAritmetika" />
+      <recent name="HelloAdam01MacamTipeData" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.." />
     </key>
@@ -138,7 +139,7 @@
       <module name="HelloAdamJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="helloadam.*" />
+          <option name="PATTERN" value="HelloAdam00SukaSuka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,6 +237,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569502843666</updated>
+      <workItem from="1578538587434" duration="3084000" />
+      <workItem from="1578575423842" duration="799000" />
+      <workItem from="1578585936070" duration="1918000" />
+      <workItem from="1578626486491" duration="2682000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -328,8 +333,18 @@
       <option name="project" value="LOCAL" />
       <updated>1577543602060</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Menambahkan beberapa package di module HelloAdam yang nanti nya akan berisi package helloadam yang dipindahkan">
+      <created>1578408459744</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1578408459744</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
@@ -389,9 +404,18 @@
     <MESSAGE value="Sedikit perbaikan" />
     <MESSAGE value="Sedikit perbaikan pada Intellij IDEA" />
     <MESSAGE value="Menambahkan copyright lagi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan copyright lagi" />
+    <MESSAGE value="Menambahkan beberapa package di module HelloAdam yang nanti nya akan berisi package helloadam yang dipindahkan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan beberapa package di module HelloAdam yang nanti nya akan berisi package helloadam yang dipindahkan" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="416" y="180" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578640262076">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="180" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1578640262076" />
+    <state x="527" y="289" width="312" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578586254475">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="527" y="289" width="312" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1366.741@0.27.1366.741" timestamp="1578586254475" />
     <state x="488" y="27" width="526" height="741" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1575171213323">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -400,23 +424,27 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1732" y="112" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1574986199053" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1577543601200">
+    <state x="431" y="239" width="568" height="325" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578640263909">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="431" y="239" width="568" height="325" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.741@0.27.1366.741" timestamp="1578640263909" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1578408458363">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1577506487482" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578408458363" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1576019603071" />
-    <state x="461" y="141" width="424" height="520" key="FileChooserDialogImpl" timestamp="1578191763237">
+    <state x="461" y="141" width="424" height="520" key="FileChooserDialogImpl" timestamp="1578589264941">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="461" y="141" width="422" height="541" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575956640573" />
     <state x="1827" y="118" width="447" height="520" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969113810" />
-    <state x="461" y="141" width="424" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1578191763237" />
+    <state x="461" y="141" width="424" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1578589264941" />
     <state x="1776" y="246" width="545" height="283" key="Github.CreatePullRequestDialog" timestamp="1575968638022">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
@@ -469,16 +497,20 @@
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364064288" />
     <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575155393" />
     <state x="278" y="139" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1576231016549" />
+    <state x="455" y="182" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1578586554264">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="455" y="182" width="446" height="447" key="chooseDestDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1578586554264" />
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575897519770">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575897519770" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578191396753">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578707882845">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577151987157" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578575422594" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575852888350" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578191396752" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578707882845" />
     <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576019181681">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -512,10 +544,10 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1690" y="272" width="717" height="230" key="git4idea.ui.GitResetDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968917515" />
-    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1578193461064">
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1578575665206">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575956643153" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578575665206" />
     <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1578193461064" />
     <state x="5" y="174" key="run.anything.popup" timestamp="1575784620857">
       <screen x="0" y="27" width="1366" height="741" />

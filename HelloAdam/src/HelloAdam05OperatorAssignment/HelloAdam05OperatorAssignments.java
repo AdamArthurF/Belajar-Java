@@ -6,7 +6,7 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-package helloadam;
+package HelloAdam05OperatorAssignment;
 
 public class HelloAdam05OperatorAssignments {
 

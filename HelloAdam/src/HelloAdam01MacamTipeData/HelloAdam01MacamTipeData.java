@@ -6,7 +6,7 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-package helloadam;
+package HelloAdam01MacamTipeData;
 
 public class HelloAdam01MacamTipeData{
 

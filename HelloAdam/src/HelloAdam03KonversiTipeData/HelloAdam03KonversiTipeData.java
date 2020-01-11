@@ -6,7 +6,7 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-package helloadam;
+package HelloAdam03KonversiTipeData;
 
 public class HelloAdam03KonversiTipeData {
 

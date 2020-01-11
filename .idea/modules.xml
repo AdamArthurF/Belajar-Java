@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloAdam/HelloAdam.iml" filepath="$PROJECT_DIR$/HelloAdam/HelloAdam.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloAdamJava.iml" filepath="$PROJECT_DIR$/HelloAdamJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mandiri/Mandiri.iml" filepath="$PROJECT_DIR$/Mandiri/Mandiri.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Dasar/helloadam.iml" filepath="$PROJECT_DIR$/Java-Dasar/helloadam.iml" />
     </modules>
   </component>

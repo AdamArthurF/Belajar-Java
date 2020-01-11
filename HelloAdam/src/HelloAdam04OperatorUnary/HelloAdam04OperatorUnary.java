@@ -7,7 +7,7 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-package helloadam;
+package HelloAdam04OperatorUnary;
 
 public class HelloAdam04OperatorUnary {
 
