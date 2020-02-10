@@ -26,18 +26,23 @@
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka3/HelloAdam00SukaSuka3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka3/HelloAdam00SukaSuka3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam01MacamTipeData/HelloAdam01MacamTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam01MacamTipeData/HelloAdam01MacamTipeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam02OperasiAritmetika/HelloAdam02OperasiAritmetika.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam02OperasiAritmetika/HelloAdam02OperasiAritmetika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam03KonversiTipeData/HelloAdam03KonversiTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam03KonversiTipeData/HelloAdam03KonversiTipeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam04OperatorUnary/HelloAdam04OperatorUnary.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam04OperatorUnary/HelloAdam04OperatorUnary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam05OperatorAssignment/HelloAdam05OperatorAssignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam05OperatorAssignment/HelloAdam05OperatorAssignments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam06OperatorKomparasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam06OperatorKomparasi/HelloAdam06OperatorKomparasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam07OperatorLogika.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam07OperatorLogika/HelloAdam07OperatorLogika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam08OperatorBitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam08OperatorBitwise/HelloAdam08OperatorBitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam09UserInputScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam09UserInputScanner/HelloAdam09UserInputScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam10AlgoritmaPercabangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam10Percabangan/HelloAdam10AlgoritmaPercabangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam11SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam11SwitchCase/HelloAdam11SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam12TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam12TernaryOperator/HelloAdam12TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam13LatihanKalkulatorIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam13LatihanKalkulatorIfElse/HelloAdam13LatihanKalkulatorIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam14LatihanKalkulatorSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam14LatihanKalkulatorSwitchCase/HelloAdam14LatihanKalkulatorSwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam15AlgoritmaPerulangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam15AlgoritmaPerulangan/HelloAdam15AlgoritmaPerulangan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam15LatihanLooping.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam16LatihanLooping/HelloAdam16LatihanLooping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam16BreakContinueReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam17BreakContinueReturn/HelloAdam17BreakContinueReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam17NestedLoopingKotakSegitiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam18NestedLoopingKotakSegitiga/HelloAdam18NestedLoopingKotakSegitiga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam18MethodFungsi.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam19MethodFungsi/HelloAdam19MethodFungsi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam19MenghitungDanMenggambar.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam20MenghitungDanMenggambar/HelloAdam20MenghitungDanMenggambar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam20FungsiRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam21FungsiRecursive/HelloAdam20FungsiRecursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam21OverloadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam22OverloadMethod/HelloAdam22OverloadMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam22Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam23Array/HelloAdam23Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam23OperasiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam24OperasiArray/HelloAdam24OperasiArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam24LatihanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam25LatihanArray/HelloAdam25LatihanArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam25ArrayMultidimensi.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam26ArrayMultidimensi/HelloAdam26ArrayMultidimensi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam26ArrayMultiDimensiLebihDalam.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam27ArrayMultidimensiLebihDalam/HelloAdam27ArrayMultiDimensiLebihDalam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloadam/HelloAdam27OperasiMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam28OperasiMatriks/HelloAdam28OperasiMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,6 +249,7 @@
       <workItem from="1578585936070" duration="1918000" />
       <workItem from="1578626486491" duration="2682000" />
       <workItem from="1578707870137" duration="3004000" />
+      <workItem from="1581347371227" duration="3884000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -439,13 +445,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="431" y="239" width="568" height="325" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.741@0.27.1366.741" timestamp="1578708792620" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1578707986693">
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1578710909190">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578707986693" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1578710909190" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -516,12 +522,12 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575897519770" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578707882845">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581347371800">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578575422594" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575852888350" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578707882845" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1581347371800" />
     <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576019181681">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

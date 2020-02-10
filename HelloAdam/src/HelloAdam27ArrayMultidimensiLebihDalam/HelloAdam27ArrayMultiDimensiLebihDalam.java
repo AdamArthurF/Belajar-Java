@@ -1,14 +1,22 @@
-package helloadam;
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+package HelloAdam27ArrayMultidimensiLebihDalam;
 
 import java.util.*;
 
-public class HelloAdam26ArrayMultiDimensiLebihDalam {
+public class HelloAdam27ArrayMultiDimensiLebihDalam {
 
     public static void main(String[] args) {
 
         int[][] array_2D = {
-                {1,2,3},
-                {4,5}
+            {1,2,3},
+            {4,5}
         };
 
         System.out.println(array_2D);
@@ -23,8 +31,8 @@ public class HelloAdam26ArrayMultiDimensiLebihDalam {
         char[] array_char2 = {'d','e'};
 
         char[][] arrayChar_2D = {
-                array_char1,
-                array_char2
+            array_char1,
+            array_char2
         };
 
         System.out.println(arrayChar_2D);

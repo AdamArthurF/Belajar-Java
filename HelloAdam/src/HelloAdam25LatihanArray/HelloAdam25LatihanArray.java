@@ -1,38 +1,43 @@
-package helloadam;
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+package HelloAdam25LatihanArray;
 
 import java.util.Arrays;
 
-public class HelloAdam24LatihanArray {
+public class HelloAdam25LatihanArray {
 
     public static void main(String[] args) {
+        int[] arrayAngka1 = {3,6,4,1,9,7,0,2,8,5};
+        int[] arrayAngka2 = {7,0,9,3,5,8,4,2,6,1};
 
-    int[] arrayAngka1 = {3,6,4,1,9,7,0,2,8,5};
-    int[] arrayAngka2 = {7,0,9,3,5,8,4,2,6,1};
+        // Penjumlahan antara 2 buah array
+        int[] arrayHasil1 = tambahArray(arrayAngka1,arrayAngka2);
+        printArray(arrayAngka1,"Array 1");
+        printArray(arrayAngka2,"Array 2");
+        printArray(arrayHasil1,"Hasil 1");
 
-    // Penjumlahan antara 2 buah array
+        // Menggabungkan 2 buah Array
+        int[] arrayHasil2 = new int[arrayAngka1.length + arrayAngka2.length];
 
-    int[] arrayHasil1 = tambahArray(arrayAngka1,arrayAngka2);
-    printArray(arrayAngka1,"Array 1");
-    printArray(arrayAngka2,"Array 2");
-    printArray(arrayHasil1,"Hasil 1");
+        for (int i = 0;i < arrayAngka1.length;i++){
+            arrayHasil2[i] = arrayAngka1[i];
+        }
 
-    // Menggabungkan 2 buah Array
-
-    int[] arrayHasil2 = new int[arrayAngka1.length + arrayAngka2.length];
-
-    for (int i = 0;i < arrayAngka1.length;i++){
-        arrayHasil2[i] = arrayAngka1[i];
-    }
-
-    for (int i = 0;i < arrayAngka2.length;i++){
-        arrayHasil2[i + arrayAngka1.length] = arrayAngka2[i];
-    }
+        for (int i = 0;i < arrayAngka2.length;i++){
+            arrayHasil2[i + arrayAngka1.length] = arrayAngka2[i];
+        }
 
         printArray(arrayAngka1,"Array 1");
         printArray(arrayAngka2,"Array 2");
         printArray(arrayHasil1,"Hasil 2");
 
-    // Sorting reverse, mengurutkan tapi kebalik
+        // Sorting reverse, mengurutkan tapi kebalik
         printArray(arrayAngka1,"Array 1");
         reverse(arrayAngka1);
         printArray(arrayAngka1,"Reverse 1");
