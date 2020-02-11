@@ -1,20 +1,26 @@
-package helloadam;
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+package HelloAdam33MengenalException;
 
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.*;
 
-public class HelloAdam32MengenalException {
+public class HelloAdam33MengenalException {
 
     public static void main(String[] MbahPutih) {
-
         int[] array = {0,1,2,3};
 
         Scanner userInput = new Scanner(System.in);
         FileInputStream fileInput = null;
         System.out.print("nilai array ke: ");
         int index = userInput.nextInt();
-
 
         // exception handling (try,catch,finally)
         System.out.println("Handling out of bound");
@@ -45,9 +51,7 @@ public class HelloAdam32MengenalException {
 
 
         // finally
-
         System.out.println("Menambahkan Finally");
-
         try {
             System.out.printf("index ke-%d, adalah %d\n", index, array[index]);
         } catch (ArrayIndexOutOfBoundsException e){
@@ -59,4 +63,3 @@ public class HelloAdam32MengenalException {
         System.out.println("\nakhir dari program");
     }
 }
-

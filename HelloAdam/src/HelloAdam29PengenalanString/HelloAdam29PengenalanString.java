@@ -1,23 +1,27 @@
-package helloadam;
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+package HelloAdam29PengenalanString;
 
 import java.util.*;
 
-public class HelloAdam28PengenalanString {
+public class HelloAdam29PengenalanString {
 
     public static void main(String[] MbahPutih) {
         // membuat String
-
         String kataString = "hallo";
-
         char[] kataChar = {'h', 'a', 'l', 'l', 'o'};
 
         // menampilkan String
-
         System.out.println(kataString);
         System.out.println(Arrays.toString(kataChar));
 
         // mengakses komponen dari String
-
         System.out.println("komponen pertama dari char[] = " + kataChar[3]);
         System.out.println("komponen pertama dari String = " + kataString.charAt(3));
 
@@ -30,22 +34,15 @@ public class HelloAdam28PengenalanString {
         // kataString.charAt(0) = "c"; <---- tidak bisa
 
         // kita bisa merubah komponen secara tidak langsung
-
         printAddress("kataString", kataString);
-
         kataString = "c" + kataString.substring(1, 5);
-
         System.out.println(kataString);
-
         printAddress("kataString", kataString);
 
         // memory dari string (String Pool)
-
         String str_1 = "hallo";
         String str_2 = "test";
         String str_3 = "testing";
-
-
         printAddress("str_1", str_1);
         printAddress("str_2", str_2);
         printAddress("str_3", str_3);

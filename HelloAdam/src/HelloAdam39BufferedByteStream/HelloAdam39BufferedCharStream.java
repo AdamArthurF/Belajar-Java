@@ -1,16 +1,24 @@
-package helloadam;
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+package HelloAdam39BufferedByteStream;
 
 import java.io.*;
 import java.util.*;
 
-public class HelloAdam38BufferedCharStream {
+public class HelloAdam39BufferedCharStream {
 
     public static void main(String[] MbahPutih) throws IOException {
-
         // Membaca file dulu
         FileReader fileInput = new FileReader("input.txt");
         BufferedReader bufferedReader = new BufferedReader(fileInput);
         bufferedReader.mark(200);
+
         // membaca kedalam string
         String data = bufferedReader.readLine();
         System.out.println(data);

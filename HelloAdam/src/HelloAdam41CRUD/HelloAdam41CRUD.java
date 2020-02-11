@@ -1,11 +1,19 @@
-package helloadam;
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+package HelloAdam41CRUD;
 
 import java.util.*;
 import java.io.*;
 import java.time.*;
 import javax.swing.*;
 
-public class HelloAdam40CRUD {
+public class HelloAdam41CRUD {
 
     public static void main(String[] MbahPutih) throws IOException {
         Scanner inputUser = new Scanner(System.in);

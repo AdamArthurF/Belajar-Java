@@ -1,11 +1,18 @@
-package helloadam;
+/*
+ * Copyright (c) 2020. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+ * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+ * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+ * Vestibulum commodo. Ut rhoncus gravida arcu.
+ */
+
+package HelloAdam32FormatString;
 
 import java.util.Formatter;
 
-public class HelloAdam31FormatString {
+public class HelloAdam32FormatString {
 
     public static void main(String[] MbahPutih) {
-
         String nama = "Udin";
         int umur = 17;
 
@@ -61,8 +68,8 @@ public class HelloAdam31FormatString {
         System.out.printf("%f\n",float2);
         System.out.printf("%.1f\n",float2);
         System.out.printf("%.2f\n",float2);
-        System.out.printf("%8.2f\n",float2); // gabungkan dengna width
-        System.out.printf("%+08.2f\n",float2); // gabungkan dengna width dan flag
+        System.out.printf("%8.2f\n",float2); // gabungkan dengan width
+        System.out.printf("%+08.2f\n",float2); // gabungkan dengan width dan flag
 
         // contoh
 
