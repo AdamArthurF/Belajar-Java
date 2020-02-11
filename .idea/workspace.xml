@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Praktikum:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="BuildServerSettings">
     <option name="LOGIN" value="" />
     <option name="SERVER_URL" value="http://buildserver" />
@@ -25,55 +30,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Praktikum_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__7_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_endpoints_endpoints_framework_Release1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_objectify_objectify_5_1_221.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mandiri/Mandiri.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/Praktikum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/web/WEB-INF/appengine-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloadam/perpus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HelloAdam/src/HelloAdam41CRUD/perpus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainmain/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri01Ascending3Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri01Ascending3Data/Mandiri01Ascending3Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri02Descending3Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri02Descending3Data/Mandiri02Descending3Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri03EmpatBilanganInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri03EmpatBilanganInt/Mandiri03EmpatBilanganInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri04MenggambarSegitiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri04MenggambarSegitiga/Mandiri04MenggambarSegitiga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri05TampilWaktu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri05TampilWaktu/Mandiri05TampilWaktu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri06TebakUltah.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri06TebakUltah/Mandiri06TebakUltah.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri07HitungBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri07HitungBMI/Mandiri07HitungBMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri08BangunDatar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri08BangunDatar/Mandiri08BangunDatar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri09TahunKabisat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri09TahunKabisat/Mandiri09TahunKabisat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri10Lottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri10Lottery/Mandiri10Lottery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri11TebakAngka.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri11TebakAngka/Mandiri11TebakAngka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri12LoopQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri12LoopQuiz/Mandiri12LoopQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri13AngkaPrima.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri13AngkaPrima/Mandiri13AngkaPrima.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri14NilaiSentinel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri14NilaiSentinel/Mandiri14NilaiSentinel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri15SimulasiMonteCarlo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri15SimulasiMonteCarlo/Mandiri15SimulasiMonteCarlo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri16TampilKalender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri16TampilKalender/Mandiri16TampilKalender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri17MengurutkanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri17MengurutkanArray/Mandiri17MengurutkanArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri18GeserArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri18GeserArray/Mandiri18GeserArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri19IuranWarga.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri19IuranWarga/Mandiri19IuranWarga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri20AngkaLotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri20AngkaLotto/Mandiri20AngkaLotto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri21PilihKartu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri21PilihKartu/Mandiri21PilihKartu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri22JumlahArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri22JumlahArray/Mandiri22JumlahArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri23PengurutanSeleksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri23PengurutanSeleksi/Mandiri23PengurutanSeleksi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri24Matriks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri24Matriks/Mandiri24Matriks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri25NilaiUjian.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri25NilaiUjian/Mandiri25NilaiUjian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri26TebakUltah2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri26TebakUltah2/Mandiri26TebakUltah2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri27UjiLingkaran.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri27UjiLingkaran/Mandiri27UjiLingkaran.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri28TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri28TV/Mandiri28TV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri29UjiFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri29UjiFrame/Mandiri29UjiFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri30KomponenGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri30KomponenGUI/Mandiri30KomponenGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri31Lingkaran2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri31Lingkaran2/Mandiri31Lingkaran2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri32UjiLingkaran2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri32UjiLingkaran2/Mandiri32UjiLingkaran2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri33Lingkaran3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri33Lingkaran3/Mandiri33Lingkaran3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri34UjiLingkaran3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri34UjiLingkaran3/Mandiri34UjiLingkaran3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri35UjiPelewatanObjek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri35UjiPelewatanObjek/Mandiri35UjiPelewatanObjek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri36TotalLuas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri36TotalLuas/Mandiri36TotalLuas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri37PeriksaPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri37PeriksaPalindrome/Mandiri37PeriksaPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri38HitungSetiapHuruf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri38HitungSetiapHuruf/Mandiri38HitungSetiapHuruf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri39PeriksaPalindrome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri39PeriksaPalindrome2/Mandiri39PeriksaPalindrome2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri40Kalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri40Kalkulator/Mandiri40Kalkulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri41File.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri41File/Mandiri41File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri42TestKelasFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri42TestKelasFile/Mandiri42TestKelasFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri43TulisData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri43TulisData/Mandiri43TulisData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri44BacaData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri44BacaData/Mandiri44BacaData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri45GantiTeks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri45GantiTeks/Mandiri45GantiTeks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mandiri/Mandiri46DialogFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri46DialogFile/Mandiri46DialogFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praktikum/Praktikum01Alice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum01Alice/Praktikum01Alice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praktikum/Praktikum02Dasar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum02Dasar/Praktikum02Dasar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +128,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.22290389" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -172,7 +144,7 @@
       <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mandiri38HitungSetiapHuruf">
+  <component name="RunManager" selected="Google App Engine Standard Local Server.Google App Engine Standard Local Server2">
     <configuration name="HelloAdam30OperasiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloAdam30OperasiString.HelloAdam30OperasiString" />
       <module name="HelloAdam" />
@@ -244,6 +216,32 @@
     <configuration name="Google App Engine Deployment" type="gcp-app-engine-deploy" factoryName="Google App Engine Deployment">
       <method v="2" />
     </configuration>
+    <configuration name="Google App Engine Standard Local Server2" type="gcp-app-engine-local-run" factoryName="Local" APPLICATION_SERVER_NAME="Google App Engine Standard Local Server2" ALTERNATIVE_JRE_ENABLED="false">
+      <server-settings>
+        <artifact>Praktikum:war exploded</artifact>
+      </server-settings>
+      <ConfigurationWrapper VM_VAR="" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Praktikum:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Mandiri38HitungSetiapHuruf" />
@@ -259,7 +257,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Google App Engine Standard Local Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Google App Engine Standard Local Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -282,7 +290,7 @@
       <workItem from="1578626486491" duration="2682000" />
       <workItem from="1578707870137" duration="3004000" />
       <workItem from="1581347371227" duration="3928000" />
-      <workItem from="1581403032140" duration="8200000" />
+      <workItem from="1581403032140" duration="8955000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -403,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581405406885</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Selesai merombak package Mandiri dan memindahkannya ke Module Mandiri">
+      <created>1581411444506</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1581411444506</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +486,8 @@
     <MESSAGE value="Memperbaiki package HelloAdam" />
     <MESSAGE value="Memperbaiki package HelloAdam secara besar-besaran" />
     <MESSAGE value="Akhirnya selesai juga setelah merombak package Helloadam secara besar-besaran dan memindahkannya ke dalam modul HelloAdam yang baru" />
-    <option name="LAST_COMMIT_MESSAGE" value="Akhirnya selesai juga setelah merombak package Helloadam secara besar-besaran dan memindahkannya ke dalam modul HelloAdam yang baru" />
+    <MESSAGE value="Selesai merombak package Mandiri dan memindahkannya ke Module Mandiri" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selesai merombak package Mandiri dan memindahkannya ke Module Mandiri" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Project_Structure" timestamp="1581410033921">
@@ -506,13 +522,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="411" y="159" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.27.1366.741@0.27.1366.741" timestamp="1581410011516" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1581405405972">
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1581411443506">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1581405405972" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1581411443506" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -535,40 +551,41 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969333089" />
-    <state width="379" height="538" key="GridCell.Tab.0.bottom" timestamp="1581410389443">
+    <state width="903" height="149" key="GridCell.Tab.0.bottom" timestamp="1581411866823">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736848" />
     <state width="452" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="379" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1581410389443" />
+    <state width="903" height="149" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1581411866823" />
     <state width="452" height="565" key="GridCell.Tab.0.bottom/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
-    <state width="379" height="538" key="GridCell.Tab.0.center" timestamp="1581410389442">
+    <state width="903" height="149" key="GridCell.Tab.0.center" timestamp="1581411866822">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="379" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1581410389442" />
+    <state width="903" height="149" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1581411866822" />
     <state width="452" height="565" key="GridCell.Tab.0.center/0.27.2732.741@0.27.2732.741" timestamp="1576734221344" />
-    <state width="379" height="538" key="GridCell.Tab.0.left" timestamp="1581410389441">
+    <state width="903" height="149" key="GridCell.Tab.0.left" timestamp="1581411866821">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="379" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1581410389441" />
+    <state width="903" height="149" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1581411866821" />
     <state width="452" height="565" key="GridCell.Tab.0.left/0.27.2732.741@0.27.2732.741" timestamp="1576734221344" />
-    <state width="379" height="538" key="GridCell.Tab.0.right" timestamp="1581410389443">
+    <state width="903" height="149" key="GridCell.Tab.0.right" timestamp="1581411866822">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="379" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1581410389443" />
+    <state width="903" height="149" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1581411866822" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
-    <state x="172" y="31" width="1012" height="737" key="SettingsEditor" timestamp="1577543230764">
+    <state x="172" y="31" width="1012" height="737" key="SettingsEditor" timestamp="1581411717144">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
     <state x="172" y="31" width="1012" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543230764" />
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1581411717144" />
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1577364064288">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -622,11 +639,11 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1690" y="272" width="717" height="230" key="git4idea.ui.GitResetDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968917515" />
-    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1578575665206">
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1581411666972">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578575665206" />
-    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1578193461064" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1581411666972" />
     <state x="5" y="174" key="run.anything.popup" timestamp="1575784620857">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
