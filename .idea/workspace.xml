@@ -30,104 +30,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/ObjectOrientedProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tugas/Tugas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tugas/src/Tugas15CetakKarakter/Tugas15CetakKarakter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/HelloAdam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/ProceduralProgramming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka/HelloAdam00SukaSuka.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam00SukaSuka/HelloAdam00SukaSuka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka2/HelloAdam00SukaSuka2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam00SukaSuka2/HelloAdam00SukaSuka2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka3/HelloAdam00SukaSuka3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam00SukaSuka3/HelloAdam00SukaSuka3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka4/HelloAdam00SukaSuka4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam00SukaSuka4/HelloAdam00SukaSuka4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam01MacamTipeData/HelloAdam01MacamTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam01MacamTipeData/HelloAdam01MacamTipeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam02OperasiAritmetika/HelloAdam02OperasiAritmetika.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam02OperasiAritmetika/HelloAdam02OperasiAritmetika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam03KonversiTipeData/HelloAdam03KonversiTipeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam03KonversiTipeData/HelloAdam03KonversiTipeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam04OperatorUnary/HelloAdam04OperatorUnary.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam04OperatorUnary/HelloAdam04OperatorUnary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam05OperatorAssignment/HelloAdam05OperatorAssignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam05OperatorAssignment/HelloAdam05OperatorAssignments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam06OperatorKomparasi/HelloAdam06OperatorKomparasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam06OperatorKomparasi/HelloAdam06OperatorKomparasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam07OperatorLogika/HelloAdam07OperatorLogika.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam07OperatorLogika/HelloAdam07OperatorLogika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam08OperatorBitwise/HelloAdam08OperatorBitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam08OperatorBitwise/HelloAdam08OperatorBitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam09UserInputScanner/HelloAdam09UserInputScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam09UserInputScanner/HelloAdam09UserInputScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam10Percabangan/HelloAdam10AlgoritmaPercabangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam10Percabangan/HelloAdam10AlgoritmaPercabangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam11SwitchCase/HelloAdam11SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam11SwitchCase/HelloAdam11SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam12TernaryOperator/HelloAdam12TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam12TernaryOperator/HelloAdam12TernaryOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam13LatihanKalkulatorIfElse/HelloAdam13LatihanKalkulatorIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam13LatihanKalkulatorIfElse/HelloAdam13LatihanKalkulatorIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam14LatihanKalkulatorSwitchCase/HelloAdam14LatihanKalkulatorSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam14LatihanKalkulatorSwitchCase/HelloAdam14LatihanKalkulatorSwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam15AlgoritmaPerulangan/HelloAdam15AlgoritmaPerulangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam15AlgoritmaPerulangan/HelloAdam15AlgoritmaPerulangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam16LatihanLooping/HelloAdam16LatihanLooping.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam16LatihanLooping/HelloAdam16LatihanLooping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam17BreakContinueReturn/HelloAdam17BreakContinueReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam17BreakContinueReturn/HelloAdam17BreakContinueReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam18NestedLoopingKotakSegitiga/HelloAdam18NestedLoopingKotakSegitiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam18NestedLoopingKotakSegitiga/HelloAdam18NestedLoopingKotakSegitiga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam19MethodFungsi/HelloAdam19MethodFungsi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam19MethodFungsi/HelloAdam19MethodFungsi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam20MenghitungDanMenggambar/HelloAdam20MenghitungDanMenggambar.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam20MenghitungDanMenggambar/HelloAdam20MenghitungDanMenggambar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam21FungsiRecursive/HelloAdam20FungsiRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam21FungsiRecursive/HelloAdam20FungsiRecursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam22OverloadMethod/HelloAdam22OverloadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam22OverloadMethod/HelloAdam22OverloadMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam23Array/HelloAdam23Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam23Array/HelloAdam23Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam24OperasiArray/HelloAdam24OperasiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam24OperasiArray/HelloAdam24OperasiArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam25LatihanArray/HelloAdam25LatihanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam25LatihanArray/HelloAdam25LatihanArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam26ArrayMultidimensi/HelloAdam26ArrayMultidimensi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam26ArrayMultidimensi/HelloAdam26ArrayMultidimensi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam27ArrayMultidimensiLebihDalam/HelloAdam27ArrayMultiDimensiLebihDalam.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam27ArrayMultidimensiLebihDalam/HelloAdam27ArrayMultiDimensiLebihDalam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam28OperasiMatriks/HelloAdam28OperasiMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam28OperasiMatriks/HelloAdam28OperasiMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam29PengenalanString/HelloAdam29PengenalanString.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam29PengenalanString/HelloAdam29PengenalanString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam30OperasiString/HelloAdam30OperasiString.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam30OperasiString/HelloAdam30OperasiString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam31StringBuilder/HelloAdam31StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam31StringBuilder/HelloAdam31StringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam32FormatString/HelloAdam32FormatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam32FormatString/HelloAdam32FormatString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam33MengenalException/HelloAdam33MengenalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam33MengenalException/HelloAdam33MengenalException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam34MethodException/HelloAdam34MethodException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam34MethodException/HelloAdam34MethodException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam35PengenalanIOStream/HelloAdam36PengenalanIOStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam35PengenalanIOStream/HelloAdam36PengenalanIOStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam36ByteStreamFileIO/HelloAdam36ByteStreamFileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam36ByteStreamFileIO/HelloAdam36ByteStreamFileIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam37CharacterStreamFileIO/HelloAdam37CharacterStreamFileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam37CharacterStreamFileIO/HelloAdam37CharacterStreamFileIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam38BufferedCharStream/HelloAdam38BufferedByteStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam38BufferedCharStream/HelloAdam38BufferedByteStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam39BufferedByteStream/HelloAdam39BufferedCharStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam39BufferedByteStream/HelloAdam39BufferedCharStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam40ScannerStringTokenizer/HelloAdam40ScannerStringToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam40ScannerStringTokenizer/HelloAdam40ScannerStringToken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam41CRUD/HelloAdam41CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam41CRUD/HelloAdam41CRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam41CRUD/perpus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam41CRUD/perpus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloAdam/src/HelloAdam42AccessModifier/HelloAdam42AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProceduralProgramming/src/HelloAdam42AccessModifier/HelloAdam42AccessModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mandiri/Mandiri.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/Mandiri.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas01SegitigaSamaKaki.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas01SegitigaSamaKaki/Tugas01SegitigaSamaKaki.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas02ProgramHitung.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas02ProgramHitung/Tugas02ProgramHitung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas03WaktuBertemu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas03WaktuBertemu/Tugas03WaktuBertemu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas04MenukarNilai.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas04MenukarNilai/Tugas04MenukarNilai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas05RatarataSKS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas05RataRataSKS/Tugas05RatarataSKS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas06KelulusanMahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas06KelulusanMahasiswa/Tugas06KelulusanMahasiswa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas07MenentukanBilangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas07MenentukanBilangan/Tugas07MenentukanBilangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas08DiskonBelanja.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas08DiskonBelanja/Tugas08DiskonBelanja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas09KonversiSuhu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas09KonversiSuhu/Tugas09KonversiSuhu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas10GenapGanjil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas10GenapGanjil/Tugas10GenapGanjil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas11JamMenitDetik.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas11JamMenitDetik/Tugas11JamMenitDetik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas12MengurutkanData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas12MengurutkanData/Tugas12MengurutkanData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas13TigaBilanganInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas13TigaBilanganInteger/Tugas13TigaBilanganInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas14AngkaDiantara.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas14AngkaDiantara/Tugas14AngkaDiantara.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas15CetakKarakter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas16JumlahDeretKeN.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas16JumlahDeretKeN/Tugas16JumlahDeretKeN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas17RataNBilangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas17RataNBilangan/Tugas17RataNBilangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas18TotalGaji.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas18TotalGaji/Tugas18TotalGaji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas19KelulusanMahasiswa2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas19KelulusanMahasiswa2/Tugas19KelulusanMahasiswa2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas20PersamaanKuadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas20PersamaanKuadrat/Tugas20PersamaanKuadrat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas21JumlahDeretKeN2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas21JumlahDeretKeN2/Tugas21JumlahDeretKeN2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas22DeretAritmetika.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas22DeretAritmetika/Tugas22DeretAritmetika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas23KaliNBilangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas23KaliNBilangan/Tugas23KaliNBilangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas24HitungFaktorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas24HitungFaktorial/Tugas24HitungFaktorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas25XPangkatY.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas25XPangkatY/Tugas25XPangkatY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas26DeretGeometri.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas26DeretGeometri/Tugas26DeretGeometri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas27DataBarang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas27DataBarang/Tugas27DataBarang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas28DataPembelianBarang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas28DataPembelianBarang/Tugas28DataPembelianBarang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas29KPK2Int.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas29KPK2Integer/Tugas29KPK2Int.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas30FPB2Int.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas30FPB2Integer/Tugas30FPB2Int.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas31KwitansiBarang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas31KwitansiBarang/Tugas31KwitansiBarang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas32Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas32Matrix/Tugas32Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas33Absolut.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas33Absolut/Tugas33Absolut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas34Max3Bilangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas34Max3Bilangan/Tugas34Max3Bilangan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas35JenisSegitiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas35JenisSegitiga/Tugas35JenisSegitiga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas36NFaktorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas36NFaktorial/Tugas36NFaktorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas37Tukar2Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas37Tukar2Data/Tugas37Tukar2Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas38NFaktorialRekursif.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas38NFaktorialRekursif/Tugas38NFaktorialRekursif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas39XPangkatYRekursif.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas39XPangkatYRekursif/Tugas39XPangkatYRekursif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas40DeretAritmetikaRekursif.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas40DeretAritmetikaRekursif/Tugas40DeretAritmetikaRekursif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas41DeretGeometriRekursif.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas41DeretGeometriRekursif/Tugas41DeretGeometriRekursif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas42DeretFibonacciRekursif.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas42DeretFibonacciRekursif/Tugas42DeretFibonacciRekursif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/Tugas43CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas43CRUD/Tugas43CRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugaspakbayu/inventory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/src/Tugas43CRUD/inventory.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +114,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.22290389" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -223,6 +126,7 @@
       <recent name="HelloAdam07OperatorLogika" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tugas/src/Tugas43CRUD" />
       <recent name="$PROJECT_DIR$/HelloAdam/src/HelloAdam41CRUD" />
       <recent name="$PROJECT_DIR$/.." />
     </key>
@@ -374,7 +278,7 @@
       <workItem from="1578707870137" duration="3004000" />
       <workItem from="1581347371227" duration="3928000" />
       <workItem from="1581403032140" duration="9610000" />
-      <workItem from="1581661980276" duration="4764000" />
+      <workItem from="1581661980276" duration="4956000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -509,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581412241316</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Akhirnya selesai juga perubahan yang kita lakukan secara besar besaran terhadap project Java kita">
+      <created>1581666888121</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1581666888121</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,7 +490,8 @@
     <MESSAGE value="Akhirnya selesai juga setelah merombak package Helloadam secara besar-besaran dan memindahkannya ke dalam modul HelloAdam yang baru" />
     <MESSAGE value="Selesai merombak package Mandiri dan memindahkannya ke Module Mandiri" />
     <MESSAGE value="Sekarang selesai merombak package praktikum dan memindahkannya ke module praktikum yang baru" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sekarang selesai merombak package praktikum dan memindahkannya ke module praktikum yang baru" />
+    <MESSAGE value="Akhirnya selesai juga perubahan yang kita lakukan secara besar besaran terhadap project Java kita" />
+    <option name="LAST_COMMIT_MESSAGE" value="Akhirnya selesai juga perubahan yang kita lakukan secara besar besaran terhadap project Java kita" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Project_Structure" timestamp="1581410033921">
@@ -614,13 +526,17 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="411" y="159" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.27.1366.741@0.27.1366.741" timestamp="1581410011516" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1581412240356">
+    <state x="415" y="260" width="525" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581666991135">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="415" y="260" width="525" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1581666991135" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1581667039465">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1581412240356" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1581667039465" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -671,13 +587,13 @@
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
     <state width="903" height="149" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1581412665791" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1581663178400">
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1581666970248">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
     <state x="172" y="31" width="1012" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543230764" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1581663178400" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1581666970248" />
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1577364064288">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -741,12 +657,12 @@
     </state>
     <state x="5" y="174" key="run.anything.popup/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575618383416" />
     <state x="5" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1575784620857" />
-    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup" timestamp="1576673624140">
+    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup" timestamp="1581666984917">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="346" y="113" width="672" height="655" key="search.everywhere.popup/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576673624140" />
     <state x="1712" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575528420174" />
-    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1575786453539" />
+    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1581666984917" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
