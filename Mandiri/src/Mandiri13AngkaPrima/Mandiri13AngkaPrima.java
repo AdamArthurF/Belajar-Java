@@ -21,13 +21,6 @@ public class Mandiri13AngkaPrima {
         while (hitung < JUMLAH_PRIMA) {
             apaPrima = true;
 
-//            for (int pembagi = 2; pembagi <= angka / 2; pembagi++) {
-//                if (angka % pembagi == 0) {
-//                    apaPrima = false;
-//                    break;
-//                }
-//            }
-
             for (int pembagi = 2;pembagi <= angka / 2 && apaPrima;pembagi++) {
                 if (angka % pembagi == 0) {
                     apaPrima = false;
