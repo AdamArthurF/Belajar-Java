@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="greenfoot">
+    <CLASSES>
+      <root url="file:///usr/share/greenfoot" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/share/greenfoot/english/greenfoot/api" />
+      <root url="file:///usr/share/greenfoot/greenfoot/common" />
+    </SOURCES>
+    <jarDirectory url="file:///usr/share/greenfoot" recursive="false" />
+  </library>
+</component>

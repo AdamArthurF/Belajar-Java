@@ -30,11 +30,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum08Array2/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/greenfoot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greenfoot/Greenfoot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greenfoot/src/greenfoot/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mandiri/src/Mandiri13AngkaPrima/Mandiri13AngkaPrima.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri13AngkaPrima/Mandiri13AngkaPrima.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/usr/share/greenfoot" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -115,7 +115,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.22290389" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright.profiles" />
@@ -292,6 +292,8 @@
       <workItem from="1582807594850" duration="1253000" />
       <workItem from="1582852005364" duration="3044000" />
       <workItem from="1582864799133" duration="2557000" />
+      <workItem from="1582946872182" duration="304000" />
+      <workItem from="1583045608119" duration="1482000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -440,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581667130839</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Menambah praktikm dari pak ovide">
+      <created>1582947035983</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1582947035983</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +521,8 @@
     <MESSAGE value="Sekarang selesai merombak package praktikum dan memindahkannya ke module praktikum yang baru" />
     <MESSAGE value="Akhirnya selesai juga perubahan yang kita lakukan secara besar besaran terhadap project Java kita" />
     <MESSAGE value="Mengupdate copyright" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mengupdate copyright" />
+    <MESSAGE value="Menambah praktikm dari pak ovide" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambah praktikm dari pak ovide" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Project_Structure" timestamp="1581410033921">
@@ -551,23 +561,27 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="260" width="525" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1581666991135" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1581667129836">
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1582947035206">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1581667129836" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582947035206" />
+    <state x="433" y="106" width="489" height="594" key="DetectedRootsChooserDialog" timestamp="1583046287225">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="433" y="106" width="489" height="594" key="DetectedRootsChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1583046287225" />
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog" timestamp="1576019603071">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="483" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1576019603071" />
-    <state x="461" y="141" width="424" height="520" key="FileChooserDialogImpl" timestamp="1581409915124">
+    <state x="443" y="52" width="907" height="527" key="FileChooserDialogImpl" timestamp="1583047396210">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="461" y="141" width="422" height="541" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575956640573" />
     <state x="1827" y="118" width="447" height="520" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969113810" />
-    <state x="461" y="141" width="424" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1581409915124" />
+    <state x="443" y="52" width="907" height="527" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1583047396210" />
     <state x="1776" y="246" width="545" height="283" key="Github.CreatePullRequestDialog" timestamp="1575968638022">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
@@ -620,13 +634,13 @@
     <state width="488" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582868782623" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
     <state width="488" height="538" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044281" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1581666970248">
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1583047398400">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575212367428" />
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
     <state x="172" y="31" width="1012" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543230764" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1581666970248" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1583047398400" />
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1582517057016">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -641,14 +655,14 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575897519770" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582946964992">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="1842" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1583151187655">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578575422594" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575852888350" />
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582613420180" />
-    <state x="1842" y="289" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582852026030" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1582946964992" />
+    <state x="1842" y="289" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583151187655" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1583045606115" />
     <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576019181681">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -682,11 +696,11 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1690" y="272" width="717" height="230" key="git4idea.ui.GitResetDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575968917515" />
-    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1581412503627">
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1583045725653">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578575665206" />
-    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1581412503627" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1583045725653" />
     <state x="5" y="174" key="run.anything.popup" timestamp="1575784620857">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
