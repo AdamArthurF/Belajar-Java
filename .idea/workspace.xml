@@ -30,10 +30,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/greenfoot.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greenfoot/Greenfoot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greenfoot/src/greenfoot/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/ContohArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/ContohHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/HapusArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/HashSetJadiArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/IterasiArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/IterasiHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/NoIterateHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/RemoveArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/RemoveHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum09Collections/SizeArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,65 +141,65 @@
       <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="HelloAdam30OperasiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloAdam30OperasiString.HelloAdam30OperasiString" />
-      <module name="ProceduralProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HelloAdam30OperasiString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mandiri15SimulasiMonteCarlo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mandiri15SimulasiMonteCarlo.Mandiri15SimulasiMonteCarlo" />
-      <module name="Mandiri" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mandiri15SimulasiMonteCarlo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mandiri36TotalLuas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mandiri36TotalLuas.Mandiri36TotalLuas" />
-      <module name="Mandiri" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mandiri36TotalLuas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mandiri38HitungSetiapHuruf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mandiri38HitungSetiapHuruf.Mandiri38HitungSetiapHuruf" />
-      <module name="Mandiri" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mandiri38HitungSetiapHuruf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum08Array2.main" />
+  <component name="RunManager" selected="Application.HashSetJadiArrayList">
+    <configuration name="HapusArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum09Collections.HapusArrayList" />
       <module name="Praktikum" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum08Array2.*" />
+          <option name="PATTERN" value="Praktikum09Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetJadiArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum09Collections.HashSetJadiArrayList" />
+      <module name="Praktikum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum09Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterasiHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum09Collections.IterasiHashSet" />
+      <module name="Praktikum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum09Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoIterateHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum09Collections.NoIterateHashSet" />
+      <module name="Praktikum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum09Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum09Collections.RemoveHashSet" />
+      <module name="Praktikum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum09Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Mandiri38HitungSetiapHuruf" />
-        <item itemvalue="Application.Mandiri36TotalLuas" />
-        <item itemvalue="Application.Mandiri15SimulasiMonteCarlo" />
-        <item itemvalue="Application.HelloAdam30OperasiString" />
+        <item itemvalue="Application.HashSetJadiArrayList" />
+        <item itemvalue="Application.NoIterateHashSet" />
+        <item itemvalue="Application.HapusArrayList" />
+        <item itemvalue="Application.IterasiHashSet" />
+        <item itemvalue="Application.RemoveHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -294,6 +300,9 @@
       <workItem from="1582864799133" duration="2557000" />
       <workItem from="1582946872182" duration="304000" />
       <workItem from="1583045608119" duration="1482000" />
+      <workItem from="1583151102848" duration="418000" />
+      <workItem from="1583162151624" duration="3747000" />
+      <workItem from="1583205615718" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -449,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582947035983</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Menambah praktikm dari pak ovide dan menambah greenfoot tapi sepertinya tidak bisa wkwk nanti tak hapus aja lah :v">
+      <created>1583151249287</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1583151249287</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +538,8 @@
     <MESSAGE value="Akhirnya selesai juga perubahan yang kita lakukan secara besar besaran terhadap project Java kita" />
     <MESSAGE value="Mengupdate copyright" />
     <MESSAGE value="Menambah praktikm dari pak ovide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menambah praktikm dari pak ovide" />
+    <MESSAGE value="Menambah praktikm dari pak ovide dan menambah greenfoot tapi sepertinya tidak bisa wkwk nanti tak hapus aja lah :v" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambah praktikm dari pak ovide dan menambah greenfoot tapi sepertinya tidak bisa wkwk nanti tak hapus aja lah :v" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Project_Structure" timestamp="1581410033921">
@@ -561,12 +578,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="260" width="525" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1581666991135" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1582947035206">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="1589" y="0" width="1038" height="741" key="CommitChangelistDialog2" timestamp="1583151248653">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="1525" y="0" width="1038" height="768" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575146993" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
+    <state x="1589" y="0" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583151248653" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582947035206" />
     <state x="433" y="106" width="489" height="594" key="DetectedRootsChooserDialog" timestamp="1583046287225">
       <screen x="0" y="27" width="1366" height="741" />
@@ -594,44 +612,44 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1951" y="9" width="574" height="757" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969333089" />
-    <state width="488" height="538" key="GridCell.Tab.0.bottom" timestamp="1582874044286">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state width="552" height="538" key="GridCell.Tab.0.bottom" timestamp="1583211156474">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736848" />
     <state width="452" height="565" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="486" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582623080562" />
+    <state width="552" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211156474" />
     <state width="690" height="877" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582859485682" />
-    <state width="488" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582868782624" />
+    <state width="552" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583165910841" />
     <state width="452" height="565" key="GridCell.Tab.0.bottom/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
     <state width="488" height="538" key="GridCell.Tab.0.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044286" />
-    <state width="488" height="538" key="GridCell.Tab.0.center" timestamp="1582874044281">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state width="552" height="538" key="GridCell.Tab.0.center" timestamp="1583211156474">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="486" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582623080561" />
+    <state width="552" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211156474" />
     <state width="690" height="877" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582859485682" />
-    <state width="488" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582868782622" />
+    <state width="552" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1583165910840" />
     <state width="452" height="565" key="GridCell.Tab.0.center/0.27.2732.741@0.27.2732.741" timestamp="1576734221344" />
     <state width="488" height="538" key="GridCell.Tab.0.center/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044281" />
-    <state width="488" height="538" key="GridCell.Tab.0.left" timestamp="1582874044280">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state width="552" height="538" key="GridCell.Tab.0.left" timestamp="1583211156474">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="486" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582623080560" />
+    <state width="552" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211156474" />
     <state width="690" height="877" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582859485681" />
-    <state width="488" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582868782620" />
+    <state width="552" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1583165910839" />
     <state width="452" height="565" key="GridCell.Tab.0.left/0.27.2732.741@0.27.2732.741" timestamp="1576734221344" />
     <state width="488" height="538" key="GridCell.Tab.0.left/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044280" />
-    <state width="488" height="538" key="GridCell.Tab.0.right" timestamp="1582874044281">
-      <screen x="0" y="27" width="3286" height="1053" />
+    <state width="552" height="538" key="GridCell.Tab.0.right" timestamp="1583211156474">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="452" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1576149736847" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576457542692" />
-    <state width="486" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582623080561" />
+    <state width="552" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211156474" />
     <state width="690" height="877" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582859485682" />
-    <state width="488" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582868782623" />
+    <state width="552" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1583165910841" />
     <state width="452" height="565" key="GridCell.Tab.0.right/0.27.2732.741@0.27.2732.741" timestamp="1576734221345" />
     <state width="488" height="538" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044281" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1583047398400">
@@ -641,11 +659,12 @@
     <state x="1538" y="4" key="SettingsEditor/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575969221524" />
     <state x="172" y="31" width="1012" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543230764" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1583047398400" />
-    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1582517057016">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="1757" y="163" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1583151256565">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364064288" />
     <state x="1644" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1576575155393" />
+    <state x="1757" y="163" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583151256565" />
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582517057016" />
     <state x="455" y="182" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1578586554264">
       <screen x="0" y="27" width="1366" height="741" />
@@ -655,14 +674,14 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575897519770" />
-    <state x="1842" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1583151187655">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583206327828">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578575422594" />
     <state x="1705" y="205" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575852888350" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1582613420180" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583206327828" />
     <state x="1842" y="289" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583151187655" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1583045606115" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1583162201021" />
     <state x="449" y="312" width="467" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576019181681">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -680,6 +699,10 @@
     </state>
     <state x="107" y="55" width="733" height="685" key="dock-window-2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1575903203632" />
     <state x="1473" y="55" width="733" height="685" key="dock-window-2/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575877532694" />
+    <state x="416" y="139" width="524" height="523" key="extract.method.dialog" timestamp="1583163584016">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="139" width="524" height="523" key="extract.method.dialog/0.27.1366.741@0.27.1366.741" timestamp="1583163584016" />
     <state x="239" y="78" width="888" height="638" key="find.popup" timestamp="1578191494017">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
