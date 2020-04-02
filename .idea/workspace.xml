@@ -30,10 +30,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/Percobaan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum13LinkedList2/DNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/SingleLinkedList.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +309,7 @@
       <workItem from="1584875330654" duration="2508000" />
       <workItem from="1585380002974" duration="2006000" />
       <workItem from="1585461290557" duration="3403000" />
-      <workItem from="1585829530987" duration="9070000" />
+      <workItem from="1585829530987" duration="10477000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -523,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585836040536</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="MenyelesaikanLinkedlist1">
+      <created>1585841405525</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1585841405525</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,7 +609,8 @@
     <MESSAGE value="Menambahkan materi linked list, tapi masa error semua sih, goblok banget yang kasih materi" />
     <MESSAGE value="Mengubah materi bagian Stack" />
     <MESSAGE value="Mengubah materi Queue, hadeehh banyak banget" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mengubah materi Queue, hadeehh banyak banget" />
+    <MESSAGE value="MenyelesaikanLinkedlist1" />
+    <option name="LAST_COMMIT_MESSAGE" value="MenyelesaikanLinkedlist1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Project_Structure" timestamp="1581410033921">
@@ -647,13 +653,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="260" width="525" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1581666991135" />
-    <state x="159" y="27" width="869" height="991" key="CommitChangelistDialog2" timestamp="1585836040104">
+    <state x="159" y="27" width="869" height="991" key="CommitChangelistDialog2" timestamp="1585841405207">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
     <state x="1589" y="0" width="869" height="991" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914201348" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585836040104" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585841405207" />
     <state x="433" y="106" width="489" height="594" key="DetectedRootsChooserDialog" timestamp="1583046287225">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
