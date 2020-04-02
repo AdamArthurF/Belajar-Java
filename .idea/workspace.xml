@@ -30,21 +30,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum10Stack/Percobaan5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Percobaan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Percobaan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Percobaan3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Percobaan4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/Percobaan1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Queue01ArrayToQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Queue02ContohQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Queue03QueueAddOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Queue04ElementOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Queue05QueueOfferOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Queue06QueuePeekOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Queue07QueuePollOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Queue08RemoveOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum11Queue/Queue09QueueToArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/SingleLinkedList.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +58,7 @@
         <option value="app" />
         <option value="FxmlFile" />
         <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -321,7 +311,7 @@
       <workItem from="1584875330654" duration="2508000" />
       <workItem from="1585380002974" duration="2006000" />
       <workItem from="1585461290557" duration="3403000" />
-      <workItem from="1585829530987" duration="5802000" />
+      <workItem from="1585829530987" duration="9070000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -526,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585832815894</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Mengubah materi Queue, hadeehh banyak banget">
+      <created>1585836040536</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1585836040536</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -606,7 +603,8 @@
     <MESSAGE value="Menambahkan materi queue dari pak ovide" />
     <MESSAGE value="Menambahkan materi linked list, tapi masa error semua sih, goblok banget yang kasih materi" />
     <MESSAGE value="Mengubah materi bagian Stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mengubah materi bagian Stack" />
+    <MESSAGE value="Mengubah materi Queue, hadeehh banyak banget" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mengubah materi Queue, hadeehh banyak banget" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Project_Structure" timestamp="1581410033921">
@@ -617,10 +615,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1581409832490" />
-    <state x="491" y="104" width="374" height="594" key="#com.intellij.ide.util.MemberChooser" timestamp="1585835421822">
+    <state x="491" y="104" width="541" height="601" key="#com.intellij.ide.util.MemberChooser" timestamp="1585840251094">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="491" y="104" width="374" height="594" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1585835421822" />
+    <state x="491" y="104" width="541" height="601" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1585840251094" />
     <state x="416" y="180" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578708789714">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -649,13 +647,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="260" width="525" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1581666991135" />
-    <state x="159" y="27" width="869" height="991" key="CommitChangelistDialog2" timestamp="1585832814536">
+    <state x="159" y="27" width="869" height="991" key="CommitChangelistDialog2" timestamp="1585836040104">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
     <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
     <state x="1589" y="0" width="869" height="991" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914201348" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585832814536" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585836040104" />
     <state x="433" y="106" width="489" height="594" key="DetectedRootsChooserDialog" timestamp="1583046287225">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
