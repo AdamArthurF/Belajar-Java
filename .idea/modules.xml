@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Greenfoot/Greenfoot.iml" filepath="$PROJECT_DIR$/Greenfoot/Greenfoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloAdamJava.iml" filepath="$PROJECT_DIR$/HelloAdamJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainMain/MainMain.iml" filepath="$PROJECT_DIR$/MainMain/MainMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mandiri/Mandiri.iml" filepath="$PROJECT_DIR$/Mandiri/Mandiri.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectOrientedProgramming/ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/ObjectOrientedProgramming/ObjectOrientedProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Praktikum/Praktikum.iml" filepath="$PROJECT_DIR$/Praktikum/Praktikum.iml" />
