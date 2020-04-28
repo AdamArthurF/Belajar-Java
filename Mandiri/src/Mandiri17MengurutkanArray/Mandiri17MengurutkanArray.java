@@ -9,7 +9,7 @@ import java.util.*;
 public class Mandiri17MengurutkanArray {
 
     public static void main(String[] MbahPutih) {
-        int[] ArrayAngka = {2,1,3,5,4};
+        int[] ArrayAngka = {5,4,1,2,3};
         PrintArray("Array A = ",ArrayAngka,"\n");
 
         Arrays.sort(ArrayAngka);

@@ -5,6 +5,24 @@
       <artifact name="Praktikum:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="BuildServerSettings">
     <option name="LOGIN" value="" />
     <option name="SERVER_URL" value="http://buildserver" />
@@ -30,8 +48,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum13LinkedList2/DNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/UTSStrukturData/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mandiri/src/Mandiri17MengurutkanArray/Mandiri17MengurutkanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri17MengurutkanArray/Mandiri17MengurutkanArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/Percobaan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/Percobaan1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri01Ascending3Data/Mandiri01Ascending3Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri01Ascending3Data/Mandiri01Ascending3Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri02Descending3Data/Mandiri02Descending3Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri02Descending3Data/Mandiri02Descending3Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri03EmpatBilanganInt/Mandiri03EmpatBilanganInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri03EmpatBilanganInt/Mandiri03EmpatBilanganInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri04MenggambarSegitiga/Mandiri04MenggambarSegitiga.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri04MenggambarSegitiga/Mandiri04MenggambarSegitiga.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri05TampilWaktu/Mandiri05TampilWaktu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri05TampilWaktu/Mandiri05TampilWaktu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri06TebakUltah/Mandiri06TebakUltah.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri06TebakUltah/Mandiri06TebakUltah.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri07HitungBMI/Mandiri07HitungBMI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri07HitungBMI/Mandiri07HitungBMI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri08BangunDatar/Mandiri08BangunDatar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri08BangunDatar/Mandiri08BangunDatar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri09TahunKabisat/Mandiri09TahunKabisat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri09TahunKabisat/Mandiri09TahunKabisat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri10Lottery/Mandiri10Lottery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri10Lottery/Mandiri10Lottery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri11TebakAngka/Mandiri11TebakAngka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri11TebakAngka/Mandiri11TebakAngka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri12LoopQuiz/Mandiri12LoopQuiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri12LoopQuiz/Mandiri12LoopQuiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri13AngkaPrima/Mandiri13AngkaPrima.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri13AngkaPrima/Mandiri13AngkaPrima.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri14NilaiSentinel/Mandiri14NilaiSentinel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri14NilaiSentinel/Mandiri14NilaiSentinel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri15SimulasiMonteCarlo/Mandiri15SimulasiMonteCarlo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri15SimulasiMonteCarlo/Mandiri15SimulasiMonteCarlo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri16TampilKalender/Mandiri16TampilKalender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri16TampilKalender/Mandiri16TampilKalender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri17MengurutkanArray/Mandiri17MengurutkanArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri17MengurutkanArray/Mandiri17MengurutkanArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri18GeserArray/Mandiri18GeserArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri18GeserArray/Mandiri18GeserArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri19IuranWarga/Mandiri19IuranWarga.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri19IuranWarga/Mandiri19IuranWarga.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri20AngkaLotto/Mandiri20AngkaLotto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri20AngkaLotto/Mandiri20AngkaLotto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri21PilihKartu/Mandiri21PilihKartu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri21PilihKartu/Mandiri21PilihKartu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri22JumlahArray/Mandiri22JumlahArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri22JumlahArray/Mandiri22JumlahArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri23PengurutanSeleksi/Mandiri23PengurutanSeleksi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri23PengurutanSeleksi/Mandiri23PengurutanSeleksi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri24Matriks/Mandiri24Matriks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri24Matriks/Mandiri24Matriks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri25NilaiUjian/Mandiri25NilaiUjian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri25NilaiUjian/Mandiri25NilaiUjian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri26TebakUltah2/Mandiri26TebakUltah2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri26TebakUltah2/Mandiri26TebakUltah2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri27UjiLingkaran/Lingkaran1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri27UjiLingkaran/Lingkaran1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri27UjiLingkaran/Mandiri27UjiLingkaran.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri27UjiLingkaran/Mandiri27UjiLingkaran.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri28TV/Mandiri28TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri28TV/Mandiri28TV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri28TV/TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri28TV/TV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri29UjiFrame/Mandiri29UjiFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri29UjiFrame/Mandiri29UjiFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri30KomponenGUI/Mandiri30KomponenGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri30KomponenGUI/Mandiri30KomponenGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri31Lingkaran2/Mandiri31Lingkaran2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri31Lingkaran2/Mandiri31Lingkaran2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri32UjiLingkaran2/Mandiri32UjiLingkaran2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri32UjiLingkaran2/Mandiri32UjiLingkaran2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri33Lingkaran3/Mandiri33Lingkaran3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri33Lingkaran3/Mandiri33Lingkaran3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri34UjiLingkaran3/Mandiri34UjiLingkaran3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri34UjiLingkaran3/Mandiri34UjiLingkaran3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri35UjiPelewatanObjek/Mandiri35UjiPelewatanObjek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri35UjiPelewatanObjek/Mandiri35UjiPelewatanObjek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri36TotalLuas/Mandiri36TotalLuas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri36TotalLuas/Mandiri36TotalLuas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri37PeriksaPalindrome/Mandiri37PeriksaPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri37PeriksaPalindrome/Mandiri37PeriksaPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri38HitungSetiapHuruf/Mandiri38HitungSetiapHuruf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri38HitungSetiapHuruf/Mandiri38HitungSetiapHuruf.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,14 +126,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$" />
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="CCLhuPqS" />
   </component>
@@ -92,12 +145,12 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -114,7 +167,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.22290389" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright.profiles" />
@@ -137,46 +190,7 @@
       <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mahasiswa">
-    <configuration name="HabisStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum10Stack.HabisStack" />
-      <module name="Praktikum" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Praktikum10Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HapusStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum10Stack.HapusStack" />
-      <module name="Praktikum" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Praktikum10Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KelasStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum10Stack.KelasStack" />
-      <module name="Praktikum" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Praktikum10Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Mandiri17MengurutkanArray">
     <configuration name="Mahasiswa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tutorial.Mahasiswa" />
       <module name="MainMain" />
@@ -190,12 +204,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tutorial.Main" />
-      <module name="MainMain" />
+    <configuration name="Mandiri17MengurutkanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mandiri17MengurutkanArray.Mandiri17MengurutkanArray" />
+      <module name="Mandiri" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tutorial.*" />
+          <option name="PATTERN" value="Mandiri17MengurutkanArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Percobaan2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum11Queue.Percobaan2" />
+      <module name="Praktikum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum11Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum11Queue.TestQueue" />
+      <module name="Praktikum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum11Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UTSStrukturData.main" />
+      <module name="Praktikum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UTSStrukturData.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,35 +290,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mandiri17MengurutkanArray" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.TestQueue" />
+        <item itemvalue="Application.Percobaan2" />
         <item itemvalue="Application.Mahasiswa" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.KelasStack" />
-        <item itemvalue="Application.HapusStack" />
-        <item itemvalue="Application.HabisStack" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Google App Engine Standard Local Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Google App Engine Standard Local Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -309,7 +340,13 @@
       <workItem from="1584875330654" duration="2508000" />
       <workItem from="1585380002974" duration="2006000" />
       <workItem from="1585461290557" duration="3403000" />
-      <workItem from="1585829530987" duration="10477000" />
+      <workItem from="1585829530987" duration="10500000" />
+      <workItem from="1585999666401" duration="451000" />
+      <workItem from="1586175808579" duration="2999000" />
+      <workItem from="1586394944678" duration="761000" />
+      <workItem from="1586784163259" duration="2902000" />
+      <workItem from="1587525498149" duration="595000" />
+      <workItem from="1587531445842" duration="396000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -528,11 +565,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585841405525</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Akhirnya selesai juga tugas nya">
+      <created>1585843518049</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585843518049</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
@@ -567,25 +611,23 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Sedikit perbaikan bug" />
     <MESSAGE value="Menambahkan copyright" />
     <MESSAGE value="update secara besar-besaran di bagian tugaspakbayu/project CRUD" />
     <MESSAGE value="Sedikit pembaharuan" />
@@ -610,7 +652,8 @@
     <MESSAGE value="Mengubah materi bagian Stack" />
     <MESSAGE value="Mengubah materi Queue, hadeehh banyak banget" />
     <MESSAGE value="MenyelesaikanLinkedlist1" />
-    <option name="LAST_COMMIT_MESSAGE" value="MenyelesaikanLinkedlist1" />
+    <MESSAGE value="Akhirnya selesai juga tugas nya" />
+    <option name="LAST_COMMIT_MESSAGE" value="Akhirnya selesai juga tugas nya" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="684" key="#Project_Structure" timestamp="1581410033921">
@@ -621,30 +664,18 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1581409832490" />
-    <state x="491" y="104" width="541" height="601" key="#com.intellij.ide.util.MemberChooser" timestamp="1585840251094">
+    <state x="491" y="104" width="541" height="601" key="#com.intellij.ide.util.MemberChooser" timestamp="1586177185440">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="491" y="104" width="541" height="601" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1585840251094" />
-    <state x="416" y="180" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578708789714">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="416" y="180" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1578708789714" />
-    <state x="527" y="289" width="312" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578586254475">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="527" y="289" width="312" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1366.741@0.27.1366.741" timestamp="1578586254475" />
+    <state x="491" y="104" width="541" height="601" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1586177185440" />
     <state x="375" y="27" width="605" height="741" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1585462791744">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="375" y="27" width="605" height="741" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.27.1366.741@0.27.1366.741" timestamp="1585462791744" />
-    <state x="431" y="239" width="568" height="325" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578708792620">
+    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586176802196">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="431" y="239" width="568" height="325" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.741@0.27.1366.741" timestamp="1578708792620" />
-    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585380332801">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.27.1366.741@0.27.1366.741" timestamp="1585380332801" />
+    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.27.1366.741@0.27.1366.741" timestamp="1586176802196" />
     <state x="411" y="159" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1581410011516">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -653,75 +684,66 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="415" y="260" width="525" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1581666991135" />
-    <state x="159" y="27" width="869" height="991" key="CommitChangelistDialog2" timestamp="1585841405207">
+    <state x="159" y="27" width="869" height="991" key="CommitChangelistDialog2" timestamp="1585843517434">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364056412" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543601200" />
     <state x="1589" y="0" width="869" height="991" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914201348" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585841405207" />
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585843517434" />
     <state x="433" y="106" width="489" height="594" key="DetectedRootsChooserDialog" timestamp="1583046287225">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="433" y="106" width="489" height="594" key="DetectedRootsChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1583046287225" />
-    <state x="443" y="52" width="907" height="527" key="FileChooserDialogImpl" timestamp="1583047396210">
+    <state x="443" y="52" width="907" height="527" key="FileChooserDialogImpl" timestamp="1587531839101">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="443" y="52" width="907" height="527" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1583047396210" />
-    <state width="542" height="538" key="GridCell.Tab.0.bottom" timestamp="1585463142596">
+    <state x="443" y="52" width="907" height="527" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1587531839101" />
+    <state width="576" height="538" key="GridCell.Tab.0.bottom" timestamp="1586788142767">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="552" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211687594" />
     <state width="771" height="877" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914446721" />
-    <state width="542" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585463142596" />
+    <state width="576" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586788142767" />
     <state width="488" height="538" key="GridCell.Tab.0.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044286" />
-    <state width="542" height="538" key="GridCell.Tab.0.center" timestamp="1585463142595">
+    <state width="576" height="538" key="GridCell.Tab.0.center" timestamp="1586788142766">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="552" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211687594" />
     <state width="771" height="877" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914446721" />
-    <state width="542" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1585463142595" />
+    <state width="576" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1586788142766" />
     <state width="488" height="538" key="GridCell.Tab.0.center/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044281" />
-    <state width="542" height="538" key="GridCell.Tab.0.left" timestamp="1585463142594">
+    <state width="576" height="538" key="GridCell.Tab.0.left" timestamp="1586788142766">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="552" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211687594" />
     <state width="771" height="877" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914446721" />
-    <state width="542" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1585463142594" />
+    <state width="576" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1586788142766" />
     <state width="488" height="538" key="GridCell.Tab.0.left/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044280" />
-    <state width="542" height="538" key="GridCell.Tab.0.right" timestamp="1585463142595">
+    <state width="576" height="538" key="GridCell.Tab.0.right" timestamp="1586788142767">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="552" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211687594" />
     <state width="771" height="877" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914446721" />
-    <state width="542" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1585463142595" />
+    <state width="576" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1586788142767" />
     <state width="488" height="538" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044281" />
     <state x="478" y="319" width="399" height="164" key="NewPhpFileDialog" timestamp="1585461769768">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="478" y="319" width="399" height="164" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1585461769768" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1583047398400">
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1587531507787">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" width="1012" height="737" key="SettingsEditor/0.27.1366.741/1366.0.1600.900@0.27.1366.741" timestamp="1577543230764" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1583047398400" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1587531507787" />
     <state x="1757" y="163" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1584344025392">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577364064288" />
     <state x="1757" y="163" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584344025392" />
     <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1583725990263" />
-    <state x="455" y="182" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1578586554264">
+    <state x="351" y="158" key="com.intellij.ide.util.TipDialog" timestamp="1586784163836">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="455" y="182" width="446" height="447" key="chooseDestDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1578586554264" />
-    <state x="351" y="158" key="com.intellij.ide.util.TipDialog" timestamp="1585829543706">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578575422594" />
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583206327828" />
     <state x="1842" y="289" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584344000671" />
-    <state x="351" y="158" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1585829543706" />
+    <state x="351" y="158" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1586784163836" />
     <state x="450" y="87" width="456" height="628" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585831739372">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -730,15 +752,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="416" y="139" width="524" height="523" key="extract.method.dialog/0.27.1366.741@0.27.1366.741" timestamp="1583163584016" />
-    <state x="239" y="78" width="888" height="638" key="find.popup" timestamp="1578191494017">
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1587531852895">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="239" y="78" width="888" height="638" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1578191494017" />
-    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1585461560260">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1578575665206" />
-    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1585461560260" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1587531852895" />
     <state x="347" y="174" key="run.anything.popup" timestamp="1585462081266">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
