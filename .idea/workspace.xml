@@ -48,51 +48,205 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6984fa7-5423-46c3-872c-59d3fd6d5135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Praktikum/src/UTSStrukturData/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/src/com/uas/praktikum/arthur/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/src/com/uas/praktikum/arthur/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/src/com/uas/praktikum/arthur/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/src/com/uas/praktikum/arthur/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum14InsertionSort/InsertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum15ShellSort/ShellDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-19.0.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-19.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-19.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_Release2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mandiri/src/Mandiri17MengurutkanArray/Mandiri17MengurutkanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mandiri/src/Mandiri17MengurutkanArray/Mandiri17MengurutkanArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/Percobaan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/src/Praktikum12LinkedList1/Percobaan1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri01Ascending3Data/Mandiri01Ascending3Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri01Ascending3Data/Mandiri01Ascending3Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri02Descending3Data/Mandiri02Descending3Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri02Descending3Data/Mandiri02Descending3Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri03EmpatBilanganInt/Mandiri03EmpatBilanganInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri03EmpatBilanganInt/Mandiri03EmpatBilanganInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri04MenggambarSegitiga/Mandiri04MenggambarSegitiga.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri04MenggambarSegitiga/Mandiri04MenggambarSegitiga.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri05TampilWaktu/Mandiri05TampilWaktu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri05TampilWaktu/Mandiri05TampilWaktu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri06TebakUltah/Mandiri06TebakUltah.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri06TebakUltah/Mandiri06TebakUltah.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri07HitungBMI/Mandiri07HitungBMI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri07HitungBMI/Mandiri07HitungBMI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri08BangunDatar/Mandiri08BangunDatar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri08BangunDatar/Mandiri08BangunDatar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri09TahunKabisat/Mandiri09TahunKabisat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri09TahunKabisat/Mandiri09TahunKabisat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri10Lottery/Mandiri10Lottery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri10Lottery/Mandiri10Lottery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri11TebakAngka/Mandiri11TebakAngka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri11TebakAngka/Mandiri11TebakAngka.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri12LoopQuiz/Mandiri12LoopQuiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri12LoopQuiz/Mandiri12LoopQuiz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri13AngkaPrima/Mandiri13AngkaPrima.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri13AngkaPrima/Mandiri13AngkaPrima.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri14NilaiSentinel/Mandiri14NilaiSentinel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri14NilaiSentinel/Mandiri14NilaiSentinel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri15SimulasiMonteCarlo/Mandiri15SimulasiMonteCarlo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri15SimulasiMonteCarlo/Mandiri15SimulasiMonteCarlo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri16TampilKalender/Mandiri16TampilKalender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri16TampilKalender/Mandiri16TampilKalender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri17MengurutkanArray/Mandiri17MengurutkanArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri17MengurutkanArray/Mandiri17MengurutkanArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri18GeserArray/Mandiri18GeserArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri18GeserArray/Mandiri18GeserArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri19IuranWarga/Mandiri19IuranWarga.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri19IuranWarga/Mandiri19IuranWarga.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri20AngkaLotto/Mandiri20AngkaLotto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri20AngkaLotto/Mandiri20AngkaLotto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri21PilihKartu/Mandiri21PilihKartu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri21PilihKartu/Mandiri21PilihKartu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri22JumlahArray/Mandiri22JumlahArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri22JumlahArray/Mandiri22JumlahArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri23PengurutanSeleksi/Mandiri23PengurutanSeleksi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri23PengurutanSeleksi/Mandiri23PengurutanSeleksi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri24Matriks/Mandiri24Matriks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri24Matriks/Mandiri24Matriks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri25NilaiUjian/Mandiri25NilaiUjian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri25NilaiUjian/Mandiri25NilaiUjian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri26TebakUltah2/Mandiri26TebakUltah2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri26TebakUltah2/Mandiri26TebakUltah2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri27UjiLingkaran/Lingkaran1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri27UjiLingkaran/Lingkaran1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri27UjiLingkaran/Mandiri27UjiLingkaran.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri27UjiLingkaran/Mandiri27UjiLingkaran.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri28TV/Mandiri28TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri28TV/Mandiri28TV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri28TV/TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri28TV/TV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri29UjiFrame/Mandiri29UjiFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri29UjiFrame/Mandiri29UjiFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri30KomponenGUI/Mandiri30KomponenGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri30KomponenGUI/Mandiri30KomponenGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri31Lingkaran2/Mandiri31Lingkaran2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri31Lingkaran2/Mandiri31Lingkaran2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri32UjiLingkaran2/Mandiri32UjiLingkaran2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri32UjiLingkaran2/Mandiri32UjiLingkaran2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri33Lingkaran3/Mandiri33Lingkaran3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri33Lingkaran3/Mandiri33Lingkaran3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri34UjiLingkaran3/Mandiri34UjiLingkaran3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri34UjiLingkaran3/Mandiri34UjiLingkaran3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri35UjiPelewatanObjek/Mandiri35UjiPelewatanObjek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri35UjiPelewatanObjek/Mandiri35UjiPelewatanObjek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri36TotalLuas/Mandiri36TotalLuas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri36TotalLuas/Mandiri36TotalLuas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri37PeriksaPalindrome/Mandiri37PeriksaPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri37PeriksaPalindrome/Mandiri37PeriksaPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mandiri/Mandiri38HitungSetiapHuruf/Mandiri38HitungSetiapHuruf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandiri/Mandiri38HitungSetiapHuruf/Mandiri38HitungSetiapHuruf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/Praktikum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/Praktikum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam00SukaSuka/HelloAdam00SukaSuka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam00SukaSuka2/HelloAdam00SukaSuka2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam00SukaSuka3/HelloAdam00SukaSuka3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam00SukaSuka4/HelloAdam00SukaSuka4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam01MacamTipeData/HelloAdam01MacamTipeData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam02OperasiAritmetika/HelloAdam02OperasiAritmetika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam03KonversiTipeData/HelloAdam03KonversiTipeData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam04OperatorUnary/HelloAdam04OperatorUnary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam05OperatorAssignment/HelloAdam05OperatorAssignments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam06OperatorKomparasi/HelloAdam06OperatorKomparasi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam07OperatorLogika/HelloAdam07OperatorLogika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam08OperatorBitwise/HelloAdam08OperatorBitwise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam09UserInputScanner/HelloAdam09UserInputScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam10Percabangan/HelloAdam10AlgoritmaPercabangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam11SwitchCase/HelloAdam11SwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam12TernaryOperator/HelloAdam12TernaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam13LatihanKalkulatorIfElse/HelloAdam13LatihanKalkulatorIfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam14LatihanKalkulatorSwitchCase/HelloAdam14LatihanKalkulatorSwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam15AlgoritmaPerulangan/HelloAdam15AlgoritmaPerulangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam16LatihanLooping/HelloAdam16LatihanLooping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam17BreakContinueReturn/HelloAdam17BreakContinueReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam18NestedLoopingKotakSegitiga/HelloAdam18NestedLoopingKotakSegitiga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam19MethodFungsi/HelloAdam19MethodFungsi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam20MenghitungDanMenggambar/HelloAdam20MenghitungDanMenggambar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam21FungsiRecursive/HelloAdam20FungsiRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam22OverloadMethod/HelloAdam22OverloadMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam23Array/HelloAdam23Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam24OperasiArray/HelloAdam24OperasiArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam25LatihanArray/HelloAdam25LatihanArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam26ArrayMultidimensi/HelloAdam26ArrayMultidimensi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam27ArrayMultidimensiLebihDalam/HelloAdam27ArrayMultiDimensiLebihDalam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam28OperasiMatriks/HelloAdam28OperasiMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam29PengenalanString/HelloAdam29PengenalanString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam/HelloAdam30OperasiString/HelloAdam29OperasiString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam00SukaSuka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam00SukaSuka2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam00SukaSuka3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam00SukaSuka4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam01MacamTipeData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam02OperasiAritmetika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam03KonversiTipeData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam04OperatorUnary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam05OperatorAssignments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam06OperatorKomparasi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam07OperatorLogika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam08OperatorBitwise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam09UserInputScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam10AlgoritmaPercabangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam11SwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam12TernaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam13LatihanKalkulatorIfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam14LatihanKalkulatorSwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam15AlgoritmaPerulangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam15LatihanLooping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam16BreakContinueReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam17NestedLoopingKotakSegitiga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam18MethodFungsi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam19MenghitungDanMenggambar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam20FungsiRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam21OverloadMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam22Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam23OperasiArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam24LatihanArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam25ArrayMultidimensi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam26ArrayMultiDimensiLebihDalam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam27OperasiMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam28PengenalanString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam29OperasiString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam30StringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam31FormatString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam32MengenalException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam33MethodException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam34PengenalanIOStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam35ByteStreamFileIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam36CharacterStreamFileIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam37BufferedByteStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam38BufferedCharStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam39ScannerStringToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam40CRUD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/HelloAdam41AccessModifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/Lain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/helloadam/perpus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mainmain/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Lingkaran1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri01Ascending3Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri02Descending3Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri03EmpatBilanganInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri04MenggambarSegitiga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri05TampilWaktu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri06TebakUltah.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri07HitungBMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri08BangunDatar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri09TahunKabisat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri10Lottery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri11TebakAngka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri12LoopQuiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri13AngkaPrima.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri14NilaiSentinel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri15SimulasiMonteCarlo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri16TampilKalender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri17MengurutkanArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri18GeserArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri19IuranWarga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri20AngkaLotto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri21PilihKartu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri22JumlahArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri23PengurutanSeleksi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri24Matriks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri25NilaiUjian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri26TebakUltah2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri27UjiLingkaran.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri28TV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri29UjiFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri30KomponenGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri31Lingkaran2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri32UjiLingkaran2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri33Lingkaran3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri34UjiLingkaran3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri35UjiPelewatanObjek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri36TotalLuas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri37PeriksaPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri38HitungSetiapHuruf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri39PeriksaPalindrome2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri40Kalkulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri41File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri42TestKelasFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri43TulisData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri44BacaData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri45GantiTeks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri46DialogFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/Mandiri47ClassMemasak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/mandiri/TV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/praktikum/Praktikum01Alice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/praktikum/Praktikum02Dasar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/praktikum/Praktikum03TipeDataVariabel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/praktikum/Praktikum04Percabangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/praktikum/Praktikum05Perulangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/praktikum/Praktikum06Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/praktikum/Praktikum07Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas01SegitigaSamaKaki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas02ProgramHitung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas03WaktuBertemu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas04MenukarNilai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas05RatarataSKS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas06KelulusanMahasiswa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas07MenentukanBilangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas08DiskonBelanja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas09KonversiSuhu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas10GenapGanjil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas11JamMenitDetik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas12MengurutkanData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas13TigaBilanganInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas14AngkaDiantara.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas15CetakKarakter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas16JumlahDeretKeN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas17RataNBilangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas18TotalGaji.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas19KelulusanMahasiswa2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas20PersamaanKuadrat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas21JumlahDeretKeN2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas22DeretAritmetika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas23KaliNBilangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas24HitungFaktorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas25XPangkatY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas26DeretGeometri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas27DataBarang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas28DataPembelianBarang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas29KPK2Int.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas30FPB2Int.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas31KwitansiBarang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas32Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas33Absolut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas34Max3Bilangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas35JenisSegitiga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas36NFaktorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas37Tukar2Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas38NFaktorialRekursif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas39XPangkatYRekursif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas40DeretAritmetikaRekursif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas41DeretGeometriRekursif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas42DeretFibonacciRekursif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/Tugas43CRUD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloAdam2/tugaspakbayu/inventory.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/OOP01Pendahuluan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/OOP01Pendahuluan/mainMain.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,12 +257,10 @@
     <option name="done" value="true" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="HelloAdam2" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -150,6 +302,10 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -157,9 +313,10 @@
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/HelloAdam/src/HelloAdam00SukaSuka2" />
-    <property name="last_opened_file_path" value="/usr/share/greenfoot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ObjectOrientedProgramming/src/com/uas/praktikum/arthur" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -174,6 +331,11 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tugas/src/Tugas43CRUD" />
+      <recent name="$PROJECT_DIR$/HelloAdam/src/HelloAdam41CRUD" />
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="HelloAdam11SwitchCase" />
       <recent name="HelloAdam10Percabangan" />
@@ -181,13 +343,11 @@
       <recent name="HelloAdam08OperatorBitwise" />
       <recent name="HelloAdam07OperatorLogika" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ObjectOrientedProgramming/src/com/uas/praktikum/arthur" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Praktikum10Stack" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Tugas/src/Tugas43CRUD" />
-      <recent name="$PROJECT_DIR$/HelloAdam/src/HelloAdam41CRUD" />
-      <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
   <component name="RunManager" selected="Application.Mandiri17MengurutkanArray">
@@ -347,6 +507,11 @@
       <workItem from="1586784163259" duration="2902000" />
       <workItem from="1587525498149" duration="595000" />
       <workItem from="1587531445842" duration="396000" />
+      <workItem from="1588075120739" duration="275000" />
+      <workItem from="1588564661776" duration="1210000" />
+      <workItem from="1588677535799" duration="1183000" />
+      <workItem from="1591510690726" duration="2436000" />
+      <workItem from="1591849930814" duration="5050000" />
     </task>
     <task id="LOCAL-00001" summary="Sedikit perbaikan">
       <created>1576019000509</created>
@@ -572,7 +737,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585843518049</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Memodifikasi sedikit">
+      <created>1588075290413</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1588075290413</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,7 +800,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Menambahkan copyright" />
     <MESSAGE value="update secara besar-besaran di bagian tugaspakbayu/project CRUD" />
     <MESSAGE value="Sedikit pembaharuan" />
     <MESSAGE value="Sedikit perbaikan" />
@@ -653,17 +824,14 @@
     <MESSAGE value="Mengubah materi Queue, hadeehh banyak banget" />
     <MESSAGE value="MenyelesaikanLinkedlist1" />
     <MESSAGE value="Akhirnya selesai juga tugas nya" />
-    <option name="LAST_COMMIT_MESSAGE" value="Akhirnya selesai juga tugas nya" />
+    <MESSAGE value="Memodifikasi sedikit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Memodifikasi sedikit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="59" width="800" height="684" key="#Project_Structure" timestamp="1581410033921">
+    <state x="312" y="79" width="732" height="644" key="#Inspections" timestamp="1591511636319">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="59" width="800" height="684" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1581410033921" />
-    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581409832490">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1581409832490" />
+    <state x="312" y="79" width="732" height="644" key="#Inspections/0.27.1366.741@0.27.1366.741" timestamp="1591511636319" />
     <state x="491" y="104" width="541" height="601" key="#com.intellij.ide.util.MemberChooser" timestamp="1586177185440">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -676,23 +844,15 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.27.1366.741@0.27.1366.741" timestamp="1586176802196" />
-    <state x="411" y="159" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1581410011516">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="411" y="159" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.27.1366.741@0.27.1366.741" timestamp="1581410011516" />
-    <state x="415" y="260" width="525" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581666991135">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="415" y="260" width="525" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1581666991135" />
-    <state x="159" y="27" width="869" height="991" key="CommitChangelistDialog2" timestamp="1585843517434">
+    <state x="159" y="27" width="869" height="991" key="CommitChangelistDialog2" timestamp="1588075288110">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1589" y="0" width="869" height="991" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914201348" />
-    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1585843517434" />
-    <state x="433" y="106" width="489" height="594" key="DetectedRootsChooserDialog" timestamp="1583046287225">
+    <state x="159" y="27" width="1038" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1588075288110" />
+    <state x="410" y="27" width="535" height="741" key="Diagram.Print.Preview.Dialog" timestamp="1591854197203">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="433" y="106" width="489" height="594" key="DetectedRootsChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1583046287225" />
+    <state x="410" y="27" width="535" height="741" key="Diagram.Print.Preview.Dialog/0.27.1366.741@0.27.1366.741" timestamp="1591854197203" />
     <state x="443" y="52" width="907" height="527" key="FileChooserDialogImpl" timestamp="1587531839101">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -703,28 +863,24 @@
     <state width="552" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211687594" />
     <state width="771" height="877" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914446721" />
     <state width="576" height="538" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586788142767" />
-    <state width="488" height="538" key="GridCell.Tab.0.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044286" />
     <state width="576" height="538" key="GridCell.Tab.0.center" timestamp="1586788142766">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="552" height="538" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211687594" />
     <state width="771" height="877" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914446721" />
     <state width="576" height="538" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1586788142766" />
-    <state width="488" height="538" key="GridCell.Tab.0.center/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044281" />
     <state width="576" height="538" key="GridCell.Tab.0.left" timestamp="1586788142766">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="552" height="538" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211687594" />
     <state width="771" height="877" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914446721" />
     <state width="576" height="538" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1586788142766" />
-    <state width="488" height="538" key="GridCell.Tab.0.left/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044280" />
     <state width="576" height="538" key="GridCell.Tab.0.right" timestamp="1586788142767">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="552" height="538" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583211687594" />
     <state width="771" height="877" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583914446721" />
     <state width="576" height="538" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1586788142767" />
-    <state width="488" height="538" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1582874044281" />
     <state x="478" y="319" width="399" height="164" key="NewPhpFileDialog" timestamp="1585461769768">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -733,25 +889,28 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1587531507787" />
-    <state x="1757" y="163" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1584344025392">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1588075301233">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="1757" y="163" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584344025392" />
-    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1583725990263" />
+    <state x="278" y="139" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1588075301233" />
     <state x="351" y="158" key="com.intellij.ide.util.TipDialog" timestamp="1586784163836">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1583206327828" />
     <state x="1842" y="289" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1584344000671" />
     <state x="351" y="158" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1586784163836" />
+    <state x="355" y="287" width="646" height="227" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591511251746">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="355" y="287" width="646" height="227" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1366.741@0.27.1366.741" timestamp="1591511251746" />
     <state x="450" y="87" width="456" height="628" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585831739372">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="450" y="87" width="456" height="628" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1366.741@0.27.1366.741" timestamp="1585831739372" />
-    <state x="416" y="139" width="524" height="523" key="extract.method.dialog" timestamp="1583163584016">
+    <state x="416" y="139" width="524" height="530" key="extract.method.dialog" timestamp="1591512194658">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="416" y="139" width="524" height="523" key="extract.method.dialog/0.27.1366.741@0.27.1366.741" timestamp="1583163584016" />
+    <state x="416" y="139" width="524" height="530" key="extract.method.dialog/0.27.1366.741@0.27.1366.741" timestamp="1591512194658" />
     <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1587531852895">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -760,10 +919,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1585462081266" />
-    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup" timestamp="1581666984917">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1591850447294">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="113" width="672" height="655" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1581666984917" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1591850447294" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

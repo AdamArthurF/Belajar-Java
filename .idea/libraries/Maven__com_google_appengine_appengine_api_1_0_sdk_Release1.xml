@@ -2,7 +2,8 @@
   <library name="Maven: com.google.appengine:appengine-api-1.0-sdk:Release1" type="repository">
     <properties maven-id="com.google.appengine:appengine-api-1.0-sdk:RELEASE" />
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.78/appengine-api-1.0-sdk-1.9.78.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.80/appengine-api-1.0-sdk-1.9.80.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
